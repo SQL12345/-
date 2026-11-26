@@ -1,0 +1,26 @@
+subject_definitions:
+<Subject 1> is Su Qiang (苏强)， the middle-aged man defined by <Picture 1>: short spiky black hair, stubble, weary hollow eyes, heavy jaw, worn gray t-shirt, loose dark trousers, scuffed dark shoes. He sits slumped in the visitation chair, defeated, then erupts in desperate breakdown. Voice: hoarse, rough, irritable middle-aged male.
+<Subject 2> is Su Wanqing (苏晚晴)， the young woman defined by <Picture 2>: long straight black hair, cold composed expression, black blazer over white shirt, gray pencil skirt, black sheer stockings, black high heels. She rises to her full height and delivers the severance lines. Voice: clear, firm, icy young female.
+<Subject 3> is the prison heavy-crime visitation room environment defined by <Picture 3>: thick glass partition, stainless-steel counter and table edge, two black corded wall-mounted telephones, gray two-tone walls, cold fluorescent ceiling light, metal door with small window, metal stools on both sides. The corded telephone receiver becomes the violently gripped prop in Shot 4.
+
+summary:
+[reference generation + keyframe completion] The target video is a 10-second live-action cinematic scene set in <Subject 3>, the prison visitation room anchored by <Picture 3>. <Subject 2> Su Wanqing, appearing per <Picture 2>, rises and coldly severs ties with <Subject 1> Su Qiang, appearing per <Picture 1>, who slumps hollow-eyed until he erupts in a desperate scream. <Picture 3> also serves as the opening-frame environment anchor; no video or audio reference assets are used.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - Su Qiang's appearance per <Picture 1> (spiky black hair, stubble, hollow eyes, gray t-shirt) is retained; his demeanor shifts from slumped defeat to breakdown as scripted.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - Su Wanqing's appearance per <Picture 2> (long black hair, black blazer, white shirt, gray pencil skirt, black heels) and cold resolute expression are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the glass partition, steel counter, corded wall phones, fluorescent light, and metal stools from <Picture 3> persist throughout; the phone receiver is reused as the gripped prop in [Shot 4].
+<Picture 3> ([Shot 1] opening-frame environment anchor): fully_preserved - the visitation room composition establishes the scene's first frame.
+
+detailed_description:
+The target video is a live-action cinematic scene in strict realism: natural, unglamorous fluorescent lighting, true-to-life skin texture and hair detail, cold and oppressive atmosphere. No subtitles, no background music, no on-screen text.
+[Shot 1] A medium shot opens inside <Subject 3>, the prison heavy-crime visitation room from <Picture 3>: thick glass partition dividing the frame, stainless-steel counter, two black corded wall-mounted telephones, gray two-tone walls, cold fluorescent ceiling light, metal stools on both sides. <Subject 2> Su Wanqing, dressed exactly per <Picture 2> in her black blazer, white shirt, gray pencil skirt, and black heels, slowly rises from her metal stool, her body straight and tall, looking down from above at <Subject 1> Su Qiang, who sits slumped in the visitation chair on the far side of the glass per <Picture 1> — stubbled, hollow-eyed, defeated in his gray t-shirt. The camera pushes in slowly toward Su Wanqing, then pans slightly toward Su Qiang. The only sound is the faint "tap, tap" of her high heels on the hard floor as she rises.
+[Shot 2] At 00:03.000, the shot cuts to a fixed close-up of <Subject 2>'s face. Her expression is cold and resolute, her gaze like a blade, fluorescent light flat on her skin. <Subject 2> (S1) speaks in a clear, icy, firm young female voice, <d>[Chinese] 母亲用生命替你还完最后一次债，</d> No other sound.
+[Shot 3] At 00:06.000, the shot cuts to a fixed medium-close of <Subject 1>'s side profile — still, silent, defeated — then immediately back to <Subject 2> front-on across the glass. <Subject 2> (S1) finishes in the same clear, resolute voice, final and unyielding, <d>[Chinese] 苏强，你我亲缘在法槌下已尽。</d> Silence otherwise.
+[Shot 4] At 00:08.000, the camera rapidly pushes in to an extreme close-up of <Subject 1>'s face. He jerks his head up violently, eyes bloodshot, body lunging forward, both hands gripping the steel counter edge with white-knuckle force — one hand seizes the corded telephone receiver, producing a sharp friction sound of violent gripping, while the background ambience suddenly swells noisy and oppressive. <Subject 1> (S2) screams in a hoarse, desperate, breaking roar, <d>[Chinese] 别走！姐！你别抛弃我！你走了我就真的什么都没有了！</d> His cry is truncated as the video ends.
+
+overall_soundscape:
+All-diegetic sound: faint "tap, tap" of high heels on the hard floor in [Shot 1]; near-silence with room tone during [Shot 2] and [Shot 3]; in [Shot 4], the harsh friction of the corded phone receiver being violently grabbed and prison background ambience turning suddenly noisy and oppressive.
+
+non_diegetic_music:
+N/A

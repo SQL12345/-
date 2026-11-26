@@ -1,0 +1,31 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is Xue Cheng, defined by <Picture 1>: a heavyset middle-aged East Asian man with slicked-back black hair and a broad face, wearing a dark grey-black plaid flannel shirt over a black undershirt, dark blue jeans, and black shoes, with iron chains/cuffs on his wrists. He speaks with a low, hoarse adult male voice carrying a shifty, worldly quality.
+<Subject 2> is Gu Yunshen, defined by <Picture 2>: a slim young East Asian man with neat black hair and gold-rimmed wire glasses, wearing a navy blue suit blazer, light blue dress shirt, dark trousers, and black leather shoes. He speaks with a steady, wise young male voice with thick texture.
+<Subject 3> is the detention-center meeting room environment from <Picture 3>: grey concrete walls, a barred window on the left, a metal door on the right, fluorescent ceiling lights, a stainless-steel table split by a central transparent bulletproof glass partition with two black corded telephone handsets, and metal chairs on both sides.
+<Subject 4> is the 笔录 written-statement document, a stack of paper that Gu Yunshen flips through and taps with his fingertip.
+
+summary:
+[reference generation] The target video is a 10-second live-action realistic scene set entirely in <Subject 3>, the detention-center meeting room from <Picture 3>. <Subject 1> Xue Cheng, whose appearance comes from <Picture 1>, bolts upright in his chains (Shots 1–2), slams the bulletproof glass partition, and roars his accusation; <Subject 2> Gu Yunshen, whose appearance comes from <Picture 2>, calmly flips through <Subject 4>, the 笔录 document (Shots 3–4), then raises his head and delivers a cold ultimatum. <Picture 3> anchors the environment across all four shots; no <Video N> or <Audio N> assets exist.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his heavyset build, slicked-back black hair, plaid flannel shirt, jeans, and iron chains are retained exactly per <Picture 1>.
+<Subject 2> (appears in [Shot 3], [Shot 4]): fully_preserved - his slim build, neat black hair, gold-rimmed glasses, navy blazer, and light blue shirt are retained exactly per <Picture 2>.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the concrete walls, barred window, fluorescent lights, stainless-steel table, bulletproof glass partition, and paired telephone handsets are retained per <Picture 3>.
+<Subject 4> (appears in [Shot 3]): fully_preserved - the 笔录 document is retained as the paper Gu Yunshen flips through and taps.
+<Picture 1> (character reference for Shots 1–2): fully_preserved - identity and costume of Xue Cheng follow the sheet.
+<Picture 2> (character reference for Shots 3–4): fully_preserved - identity and costume of Gu Yunshen follow the sheet.
+<Picture 3> (environment anchor for all shots): fully_preserved - the meeting room serves as the sole setting of the target video.
+
+detailed_description:
+The target video is a 10-second live-action cinematic scene of hard realism, set entirely inside a detention-center meeting room under flat natural fluorescent lighting, with true-to-life skin texture, stubble, and hair detail, and a restrained documentary-like framing. No subtitles appear; any narration, if layered, uses a unified female voice.
+[Shot 1] A fixed medium shot establishes <Subject 3>, the meeting room per <Picture 3>: grey concrete walls, a barred window on the left, a metal door on the right, fluorescent ceiling lights, and the stainless-steel table split by the bulletproof glass partition with two black corded telephone handsets. On one side of the partition sits <Subject 1> Xue Cheng, per <Picture 1> in his plaid flannel shirt over a black undershirt and jeans, iron chains on his wrists. As if struck by lightning, he abruptly bolts upright from the metal chair, the chains rattling violently with a harsh "哗啦——" clatter. His eyes go wide, blazing with venom and terror, his chest heaving. The camera stays locked with no movement; the room's fluorescent hum and faint facility echo sit under the chain noise.
+[Shot 2] At 00:03.000, the shot cuts to a close-up across the partition on Xue Cheng. He lunges forward and slams both palms against the bulletproof glass with dull heavy strikes — "砰砰" — his face contorted with rage, body pressed toward the pane. The camera performs a slow, steady push-in toward his face throughout the shot as he roars in his low, hoarse, shifty adult male voice, <d>[Chinese] 那个贱女人卖我！明明是她让我去骗房本签协议的！</d> His breath fogs faintly on the glass; the fluorescent light glints off the pane and the chain links.
+[Shot 3] At 00:06.000, the shot cuts to a fixed medium shot on the reverse side of the partition. <Subject 2> Gu Yunshen, per <Picture 2> in his navy blazer and light blue shirt, sits calm and composed, head lowered, flipping through <Subject 4>, the 笔录 document, with a soft paper sound — "唰" — his fingertip lightly tapping the page. The fluorescent light falls evenly across his glasses and the paper; the camera remains locked.
+[Shot 4] At 00:08.500, the shot cuts to a fixed close-up of Gu Yunshen. He slowly raises his head, his gaze through the gold-rimmed glasses going straight into the lens — implicitly at Xue Cheng — his expression calm and restrained. In a steady, wise young male voice with thick texture, quiet and measured in the hushed room, he says, <d>[Chinese] 现在坦白立功，是你免除无期徒刑的唯一机会。</d> No SFX accompanies the line; only the ambient room tone remains as the video ends on his steady gaze.
+
+overall_soundscape:
+Detention-center room tone continues throughout: a low fluorescent hum and faint distant facility echo. Diegetic SFX only — the violent chain rattle "哗啦——" in Shot 1, dull heavy palm strikes on glass "砰砰" in Shot 2, and the soft paper-flipping "唰" with a faint fingertip tap in Shot 3. Shot 4 carries only the voice in the hushed room.
+
+non_diegetic_music:
+N/A — the scene is intentionally music-free so the SFX and voices carry the tension.

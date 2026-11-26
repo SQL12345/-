@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1> is Su Yumei, defined by <Picture 1>: a Chinese woman around 35 with middle-parted black hair tied back with loose strands, wearing a navy-blue cotton work jacket over a floral collar shirt and black cloth shoes. She stands at the green iron door in [Shot 1] and is the sole focus of [Shot 3], where her gaze is cold and indifferent.
+<Subject 2> is Zhou Jianguo, defined by <Picture 2>: a Chinese man around 40 with thick black hair, wearing a white dress shirt, grey-blue pleated trousers with a brown belt, and black leather shoes. He sits at the table smoking in [Shot 1] only.
+<Subject 3> is Wang Xiulan, who has no reference image and is cast as an elderly mother in her 60s with plain era-appropriate cotton clothing, aged features, and greying hair. She sits on the bed edge in [Shot 1], is the sole focus of [Shot 2] (wailing dry sobs) and [Shot 4] (abruptly stopping mid-sob, eyes wide).
+<Subject 4> is the Su family room environment defined by <Picture 3>: a small 1980s-style Chinese room with green-and-white two-tone plaster walls, a plaid-bedded bed with folded quilts, a wooden wardrobe, a sewing machine on a wooden table, a small table with floral cloth, a green iron door at the back, a dim yellow hanging bulb, old posters, and a dark night window.
+<Picture 3> is the environment and lighting anchor for all four shots, establishing layout, props, and the dim warm overhead bulb.
+<Picture 1> and <Picture 2> are identity and costume references cited within <Subject 1> and <Subject 2>.
+
+summary:
+[reference generation] The target video is a 12-second cinematic live-action family confrontation inside <Subject 4>, the Su family room from <Picture 3>. <Subject 3> Wang Xiulan slaps her thigh and wails about her son's divorce threat, <Subject 2> Zhou Jianguo smokes silently, and <Subject 1> Su Yumei stands at the green iron door and flatly reveals that the son cheated. Four locked static shots with hard cuts at 3s, 7s, and 10s; diegetic SFX only, no music, no subtitles.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 3]): fully_preserved - her navy cotton work jacket, floral collar shirt, tied-back hair, and position at the green iron door are retained; her cold indifferent gaze in [Shot 3] follows the defined role.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his white dress shirt, grey-blue pleated trousers, and smoking action at the table are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 4]): fully_preserved - her elderly-mother casting, plain cotton clothing, thigh-slapping, wailing, and shocked wide-eyed reaction are retained.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the green iron door, plaid bed, wardrobe, sewing machine table, dim yellow bulb, and dark night window are retained throughout.
+<Picture 3> (all shots, environment anchor): fully_preserved - the room's layout, props, and dim warm lighting guide every shot.
+<Picture 1> (identity source for <Subject 1>): fully_preserved - costume and appearance transferred to <Subject 1>.
+<Picture 2> (identity source for <Subject 2>): fully_preserved - costume and appearance transferred to <Subject 2>.
+
+detailed_description:
+The target video is a cinematic live-action drama with real actors, real photographic camera movement, authentic skin and cotton fabric textures, and a suffocating 1980s domestic atmosphere lit only by a dim warm overhead bulb casting heavy shadows across a muted earthy palette. All shots are static frontal frames with hard cuts; no music and no subtitles appear at any point.
+[Shot 1] A static frontal wide shot with a 24mm wide lens and deep depth of field establishes <Subject 4>, the Su family room from <Picture 3>: green-and-white two-tone plaster walls, the plaid-bedded bed with folded quilts on the left, the wooden wardrobe and sewing machine table, the small table with floral cloth on the right, and the green iron door at the back center, all under the dim yellow hanging bulb. On the left, <Subject 3> Wang Xiulan, an elderly woman in her 60s in plain era-appropriate cotton clothing, sits on the bed edge repeatedly slapping her thigh in grief, each slap producing a sharp diegetic smack. On the right, <Subject 2> Zhou Jianguo, the man in the white dress shirt and grey-blue pleated trousers from <Picture 2>, sits at the table silently smoking, the cigarette ember glowing as he exhales a slow plume of smoke. At the back, <Subject 1> Su Yumei, the woman in the navy-blue cotton work jacket over a floral collar shirt from <Picture 1>, stands motionless at the green iron door, having just returned. No dialogue; only room tone, the thigh slaps, and the faint exhale are heard.
+[Shot 2] At 00:03.000, a hard cut to a static frontal close-up of <Subject 3> Wang Xiulan with a 50mm cinematic lens and shallow depth of field, her head centered and full face visible against the blurred bed and wall behind her. She tilts her head back and wails loud dry sobs, her face contorted, tears-less crying shaking her shoulders, and cries out, <d>[Chinese] 我这是造了什么孽啊！娶了个不下蛋的母鸡，现在还要闹离婚！</d> Her voice cracks with theatrical grief; the sobbing and wailing are the only sounds over the old room tone.
+[Shot 3] At 00:07.000, a hard cut to a static frontal close-up of <Subject 1> Su Yumei with an 85mm cinematic lens and very shallow depth of field, her head centered and full face visible, the green iron door and dim bulb glow melting into bokeh behind her. Her expression is utterly cold, eyes flat and indifferent, jaw set. She says in a calm, low, level voice, <d>[Chinese] 妈，是你儿子出轨。</d> No other sound beyond her voice and the quiet room tone.
+[Shot 4] At 00:10.000, a hard cut to a static frontal close-up of <Subject 3> Wang Xiulan with an 85mm cinematic lens and very shallow depth of field, her head centered and full face visible. She abruptly cuts off her crying mid-breath, her mouth still open for an instant, then her eyes snap wide open in stunned shock, frozen under the dim yellow light. A sharp intake of breath and the sudden silence of the stopped wailing carry to the final frame.
+
+overall_soundscape:
+Diegetic sound only: the quiet room tone of an old 1980s interior continues throughout; sharp palm-on-thigh slaps and a faint cigarette exhale in [Shot 1]; loud dry wailing and sobbing in [Shot 2]; a calm low voice in [Shot 3]; an abrupt cutoff of crying with a sharp intake of breath in [Shot 4]. No music of any kind.
+
+non_diegetic_music:
+N/A

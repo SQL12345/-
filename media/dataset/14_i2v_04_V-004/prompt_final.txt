@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is Xu Qingqing, the young East Asian woman defined by <Picture 1>: short dark bob, pearl earrings, calm intelligent face, wearing a light gray belted trench coat over a cream turtleneck with khaki cropped trousers. She holds and hands over the freshly printed route map, delivers lines 1–2 with a cold sneer and provocative smile, and nods in agreement in the final wide shot.
+<Subject 2> is Su Man, the mature East Asian woman defined by <Picture 2>: long dark hair half-up, drop earrings, elegant commanding features, wearing a dark navy blazer over a white shirt with black wide-leg trousers and black heels. She receives the route map, stands arms crossed with cold commanding presence, delivers lines 3–4, and lifts her chest gazing resolutely into the distance in the final wide shot.
+<Subject 3> is the VIP lounge entrance environment derived from <Picture 3>: marble surfaces, warm natural window light, upscale hotel furnishings, reframed as a doorway/entrance area with luxury interior visible in the background.
+<Subject 4> is the freshly printed route map, a plain white paper document with visible route lines, handed from Xu Qingqing to Su Man in Shot 1 only.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene at the VIP lounge entrance (<Subject 3>, from <Picture 3>). <Subject 1> Xu Qingqing (from <Picture 1>) excitedly hands <Subject 4>, a freshly printed route map, to <Subject 2> Su Man (from <Picture 2>) while sneering that the enemy sealed sea shipping, then reveals the China-Europe Railway Express land bridge has been given the green light. Su Man, arms crossed and commanding, orders Yalin and Qingqing to prepare for battle, and in a widening full shot declares they will show them Chinese speed as powerful strings rise. <Picture 1> and <Picture 2> provide identity and wardrobe references; <Picture 3> provides environment and lighting reference.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - short dark bob, pearl earrings, light gray trench coat over cream turtleneck, and calm-then-provocative demeanor are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - long dark hair half-up, drop earrings, dark navy suit with white shirt, and cold commanding presence are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - marble surfaces, warm natural window light, and upscale hotel furnishings from <Picture 3> are retained as the lounge-entrance background.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the route map with visible route lines is handed over in Shot 1 and does not reappear.
+<Picture 1>: fully_preserved - identity and wardrobe reference for <Subject 1> across all shots.
+<Picture 2>: fully_preserved - identity and wardrobe reference for <Subject 2> in Shots 1, 3, and 4.
+<Picture 3>: partially_preserved - its marble surfaces, warm window light, and luxury furnishings are adapted into the VIP lounge doorway framing rather than reproduced as the original living room.
+
+detailed_description:
+The target video is in a live-action cinematic realism style with natural lighting, film-grade skin texture and hair detail, and a tense, triumphant undercurrent. No subtitles or on-screen text appear.
+[Shot 1] A medium shot establishes <Subject 3>, the VIP lounge entrance with marble surfaces, warm natural window light, and upscale hotel furnishings softly blurred in the background. <Subject 1> Xu Qingqing, in her light gray belted trench coat over a cream turtleneck with pearl earrings at her ears, holds <Subject 4>, the freshly printed route map with visible route lines, and hands it excitedly toward <Subject 2> Su Man, eyes bright. Her expression shifts into a cold sneer as she speaks in a calm, rational young female voice with a mocking edge, <d>[Chinese] 他们封了海运，</d> A light paper rustle sounds as the map changes hands. The camera executes a slow push-in on Xu Qingqing.
+[Shot 2] At 00:03.000, the shot cuts to a static close-up of Xu Qingqing's face, still at the lounge entrance with warm window light sculpting her features. The corner of her mouth lifts in a provocative smile, her gaze locked on Su Man at the frame edge. She continues in the same calm, rational young female voice, rising with triumphant emphasis, <d>[Chinese] 却不知道国家陆桥中欧班列刚刚给咱们开了绿灯！</d> No camera movement; no additional sound effects.
+[Shot 3] At 00:06.000, the shot cuts to a medium-close framing. <Subject 2> Su Man, in her dark navy blazer over a white shirt with long dark hair half-up and drop earrings, stands opposite Xu Qingqing, arms crossed, her expression cold, stern, and commanding. The camera dollies right while panning left, settling focus on Su Man as marble reflections and warm light slide across the background. She issues her order in a steady, commanding middle-aged female voice, <d>[Chinese] 雅琳清清备战，</d>
+[Shot 4] At 00:08.500, the shot cuts to a full shot with a slow pull-back. Su Man straightens, chest lifted, gazing resolutely into the distance through the lounge's tall windows, while Xu Qingqing stands at her side nodding in agreement. Su Man declares in the same commanding voice, <d>[Chinese] 我们就让他们见识中国速度！</d> A low, powerful non-diegetic string score begins to swell under the line and carries through the final frame.
+
+overall_soundscape:
+Quiet upscale hotel interior room tone with faint distant lobby ambience continues throughout. The only diegetic effect is the light paper rustle of the route map changing hands in [Shot 1]; all other sound is clean natural dialogue.
+
+non_diegetic_music:
+Low, powerful strings begin swelling at 00:08.500 under Su Man's final declaration, rising steadily through the end of the video with a resolute, triumphant character and no earlier music.

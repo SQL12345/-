@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is 林素, the composed Chinese woman in her early 30s defined by <Picture 1> — long straight black hair, fair skin, calm composed expression, gold hoop earrings. In the target video she wears a fitted trench coat and high heels (wardrobe swap per intent, not the cardigan outfit on the sheet). She strides into the ward, stands over the bed, and delivers the cold refusal in Shot 3. Voice: calm, rational, clear adult female.
+<Subject 2> is 赵玉芬, the elderly Chinese woman (~65–70) defined by <Picture 2> — overweight, short curly gray hair, weathered skin, heavy features, anxious expression. She wears her dark-red floral pajama top and loose brown trousers as-is. She lies in the hospital bed, leans forward gripping the bed rail, and pleads urgently in Shot 2. Voice: sharp, harsh, fast elderly female.
+<Picture 1> is the character turnaround sheet for 林素, providing her face, hair, and build identity reference.
+<Picture 2> is the character turnaround sheet for 赵玉芬, providing her face and build identity reference.
+<Picture 3> is the empty hospital ward interior serving as the environment anchor for all three shots — white/blue hospital bed with white linens, ECG monitor, IV drip stands, wall-mounted "12" bed number sign and "呼叫" call panel, window with city view, blue curtain, bedside cabinet with medicine, teal chair.
+
+summary:
+[reference generation] The target video is a 10-second photorealistic live-action hospital-conflict scene set in <Picture 3>. <Subject 1> 林素, in a fitted trench coat and high heels, strides into the ward and stands over the bed (Shot 1, tracking shot); <Subject 2> 赵玉芬 leans forward on the bed rail and desperately pleads for surgery money (Shot 2, static); 林素 coldly refuses in close-up (Shot 3, slow push-in). <Picture 1> and <Picture 2> provide identity references for the two characters; <Picture 3> anchors the environment. No subtitles, no background music, no on-screen text; all audio is diegetic.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 3]): fully_preserved - 林素's face, long straight black hair, gold earrings, and calm cold demeanor from <Picture 1> are retained; wardrobe is the intended fitted trench coat and high heels.
+<Subject 2> (appears in [Shot 2]): fully_preserved - 赵玉芬's curly gray hair, heavyset build, weathered features, and dark-red floral pajamas from <Picture 2> are retained as-is.
+<Picture 1> ([Shot 1], [Shot 3] identity reference): fully_preserved - facial identity, hair, and build guide 林素's appearance throughout.
+<Picture 2> ([Shot 2] identity reference): fully_preserved - facial identity and build guide 赵玉芬's appearance.
+<Picture 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the hospital bed with white linens, ECG monitor, IV drip stand, "12" bed sign, window with city view, and blue curtain are retained as the ward environment.
+
+detailed_description:
+The target video is a photorealistic, live-action cinematic short with natural lighting, true-to-life skin texture and hair detail, and restrained realistic performances; the tone is cold, tense, and emotionally stark. No subtitles, no background music, no on-screen text.
+[Shot 1] A wide shot inside <Picture 3>, the hospital ward with white linens, IV drip stands, the "12" bed number sign, and a window with a city view letting in soft natural daylight. <Subject 1> 林素 — long straight black hair, gold hoop earrings, fitted trench coat, high heels — enters the frame walking briskly with efficient, businesslike strides. The camera tracks alongside her movement, following her across the ward, then settles as she stops beside the bed and stands over it, looking down from a position of superiority. Her heels strike the floor with crisp "哒、哒" clicks echoing slightly in the quiet room. No dialogue.
+[Shot 2] At 00:03.000, the shot cuts to a static medium shot in the same ward. <Subject 2> 赵玉芬 — the heavyset elderly woman with short curly gray hair in her dark-red floral pajama top — lies in the hospital bed, pushing her body slightly forward with both hands braced on the bed rail, her expression anxious and desperate as she looks up toward 林素 at the frame edge. She pleads in a sharp, harsh, rapid elderly female voice, <d>[Chinese] 素素！妈快死了，快帮妈交两万手术费！</d> Beneath the line, the ECG monitor beeps steadily, "滴滴、滴滴".
+[Shot 3] At 00:06.000, the shot cuts to a close-up of <Subject 1> 林素's face. Her expression is blank, eyes cold and fixed forward; the camera pushes in slowly toward her face across the shot. Her lips part and she speaks in a calm, clear, detached adult female voice, <d>[Chinese] 赵女士，我们没有任何法律关系。</d> The ambient room tone is low and quiet, emphasizing the coldness of the delivery. The video ends on her unchanging, cold gaze.
+
+overall_soundscape:
+Diegetic sound only: crisp "哒、哒" heel clicks on the ward floor in Shot 1; steady ECG monitor "滴滴" beeping under the dialogue in Shot 2; low, quiet ambient room tone in Shot 3. No background music.
+
+non_diegetic_music:
+N/A

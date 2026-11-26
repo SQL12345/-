@@ -1,0 +1,25 @@
+subject_definitions:
+<Subject 1> is 徐建国, the adult Chinese man defined by <Picture 1>: black buzz-cut hair, bronze-tanned weathered skin, stern resolute expression, wearing an old mottled-green digital camouflage jacket, olive cargo trousers, and black combat boots. He stands at the center of the road in Shots 3–4, raising his arms and shouting the rallying cry.
+<Subject 2> is 全村老少, the whole village crowd of men, women, elderly, and children lining both sides of the road, singing loudly with excited expressions, some shading their eyes or waving their arms. Generated per intent with consistent villager appearance; no separate reference image.
+<Subject 3> is the environment from <Picture 2>: the muddy mountain road rendered as stretching straight ahead, with wet ruts and puddles, a guardrail, rocky green slopes, misty blue-green mountain ranges, and a dramatic cloudy sky with sun rays — modified per intent with rows of blooming sunflowers lining both sides, swaying in the wind.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic-realistic scene on the muddy mountain road of <Subject 3> (from <Picture 2>). <Subject 2> 全村老少 sings in unison along both sides of the sunflower-lined road (Shots 1–2), then <Subject 1> 徐建国, whose identity and wardrobe come from <Picture 1>, stands at the road center and shouts the final rallying cry (Shots 3–4) as the crowd erupts in applause. All camera moves follow the user-locked plan; all sound is diegetic.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 3], [Shot 4]): fully_preserved - face, buzz-cut, bronze-tanned skin, resolute expression, and old camouflage uniform from <Picture 1> are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 4]): fully_preserved - the crowd of villagers of all ages lining both road sides, singing and gesturing, is retained; in Shot 4 they appear as a blurred cheering background.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): partially_preserved - the muddy road, guardrail, mountains, and cloudy sky from <Picture 2> are retained, modified per intent into a straight stretch with added rows of blooming sunflowers.
+
+detailed_description:
+The target video is a live-action, cinematic-realistic scene shot in natural light on an overcast mountain day with sun rays breaking through, photoreal skin and hair texture, and documentary-style framing.
+[Shot 1] A wide shot establishes <Subject 3>, the muddy mountain road stretching straight ahead with wet ruts, puddles, a guardrail, and misty blue-green mountains under a dramatic cloudy sky with sun rays. Rows of blooming sunflowers line both sides, their heads swaying in the wind. <Subject 2> 全村老少 stands along both edges of the road, bodies swaying with the breeze, singing loudly in unison, <d>[Chinese] 春风吹绿千层浪，</d> The camera performs a slow push-in toward the crowd. Bright group singing carries over the diegetic rustle of wind through the sunflower stalks.
+[Shot 2] At 00:03.000, the shot cuts to a medium shot of <Subject 2> continuing the song, faces excited and flushed; some villagers shade their eyes with a hand (手搭凉棚) or wave their arms. The camera tracks laterally, following the crowd horizontally. The singing reaches its climax as the crowd sings, <d>[Chinese] 高管返乡换新装，好日子万年长！</d> Faint cheers and whistles emerge beneath the song.
+[Shot 3] At 00:06.000, the shot cuts to a close shot at the road center. <Subject 1> 徐建国, with his black buzz-cut, bronze-tanned weathered skin, and old mottled-green digital camouflage jacket from <Picture 1>, stands in the middle of the muddy road, expression stern and resolute, slowly raising both arms. The camera holds static. The ambient sound dips low so his thick, steady, authoritative male voice with military gravity carries prominently as he shouts, <d>[Chinese] 大步流星向前奔，</d>
+[Shot 4] At 00:08.000, the shot cuts to an extreme close-up of <Subject 1>'s face, eyes bright, mouth open mid-shout, <Subject 2> visible only as a blurred cheering background behind him. The camera performs a slow pull-back. He yells the final line, <d>[Chinese] 幸福是靠自己双手真刀真枪干出来的！</d> As he finishes, thunderous applause erupts and his shouted line echoes over the crowd noise through the final frame.
+
+overall_soundscape:
+All-diegetic sound: wind rustling through the sunflower stalks in Shot 1, loud group singing with rising cheers and whistles in Shot 2, dipped ambience under 徐建国's shouted line in Shot 3, and thunderous applause with song echo in Shot 4.
+
+non_diegetic_music:
+N/A

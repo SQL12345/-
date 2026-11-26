@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is 林凡, the young outer-sect disciple defined by <Picture 1>: late teens, clean handsome face, dark tousled hair, brown eyes, wearing a coarse beige linen cross-collared robe with wide sleeves and a wrapped waist sash. His face, hair, and costume remain identical across all shots. He speaks in a low, gritted, suppressed-fury voice.
+<Subject 2> is the 系统光屏 (system light screen): a floating translucent panel with a pale-blue glow and simple geometric interface shapes that flicker in short steady pulses. Only minimal interface-style glyphs are allowed on it — no sentences, no paragraphs, no garbled text.
+<Subject 3> is the 青云宗外门食堂 environment defined by <Picture 2>: a stone courtyard dining hall with long wooden tables and benches, grey-tiled wooden halls, misty mountains beyond, at noon. Background disciples appear only as blurred, out-of-focus bustle, never in focus.
+<Picture 1> is the character identity and costume anchor for <Subject 1> in every shot he appears in.
+<Picture 2> is the environment and lighting anchor for <Subject 3> in Shots 1, 2, 3, and 5.
+
+summary:
+[reference generation] The target video is a 12-second photorealistic xianxia short with comic-panel rhythm, set at noon in <Subject 3>, the Qingyun Sect outer-sect dining courtyard from <Picture 2>. <Subject 1> 林凡, matching <Picture 1>, sits at a long table and escalates from suppressed disbelief to breakdown across three fixed-camera dialogue shots, cursing the system. <Subject 2>, the pale-blue system light screen, enters at frame edge in Shot 3, fills the frame alone in Shot 4 with deadpan flickering, and brightens as a hook in Shot 5. All camera positions are locked and static; no push/pull, no zoom, cuts only. No on-screen text except minimal system-interface glyphs on the SYS panel; no watermark or logo.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 5]): fully_preserved - clean handsome young face, dark tousled hair, and coarse beige linen robe with sash remain identical throughout, per <Picture 1>.
+<Subject 2> (appears in [Shot 3], [Shot 4], [Shot 5]): fully_preserved - translucent pale-blue panel with simple geometric interface shapes and steady short-pulse flicker is retained; only minimal glyphs, no readable text.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 5]): fully_preserved - long wooden tables, grey-tiled wooden halls, stone floor, misty mountains, and blurred noon bustle are retained per <Picture 2>.
+<Picture 1> (identity/costume anchor for <Subject 1>): fully_preserved - face, hairstyle, and costume follow the reference in every shot.
+<Picture 2> (environment anchor for <Subject 3>): fully_preserved - courtyard layout, tables, halls, and daylight atmosphere follow the reference.
+
+detailed_description:
+The target video is a 12-second photorealistic live-action xianxia short with comic-panel rhythm: hard cuts between locked static camera positions, no push/pull, no zoom, no handheld drift. Lighting throughout is a warm/cool clash — warm-white noon daylight from the courtyard against the pale-blue glow of the system light screen — with real skin texture, natural light falloff, and cinematic fine detail.
+[Shot 1] Fixed close-up, eye level, static. <Subject 1> 林凡, exactly per <Picture 1> — clean handsome young face, dark tousled hair, coarse beige linen cross-collared robe with sash — sits from chest up at a long wooden table in <Subject 3>, the dining courtyard from <Picture 2>. Behind him, blurred bustling disciples move softly through warm-white daylight under the eaves of grey-tiled wooden halls. He leans slightly in, jaw clenched, and growls in a low, suppressed, angry voice, <d>[Chinese] 一万响鞭炮？掌门渡劫？</d> A low angry vocal growl texture sits under the line. His eyes stay locked on the light screen just off-frame; no gaze at camera.
+[Shot 2] At 00:03.000, hard cut to a fixed extreme close-up, eye level, static, tight on <Subject 1>'s face. Faint veins rise at his temple, his eyes widen with breakdown, breath short, skin texture crisp under the warm daylight with a faint cool rim beginning to creep in from frame edge. He hisses through his teeth, <d>[Chinese] 雷劫底下放鞭炮？</d> A soft sharp sound accent lands on the cut, then his hushed voice carries the line.
+[Shot 3] At 00:07.000, hard cut to a fixed close-up, low angle, static. <Subject 1> leans toward <Subject 2>, the floating translucent system light screen at frame edge — pale-blue glow, simple geometric interface shapes flickering in short pulses, only minimal interface-style glyphs. The cool blue light washes one side of his face against the warm daylight behind. Voice suppressed to a furious whisper, he curses, <d>[Chinese] 系统你是不是嫌我死得不够快？</d> A light pause beat follows the line.
+[Shot 4] At 00:10.000, hard cut to a fixed extreme close-up, eye level, static, on <Subject 2> alone filling the frame. Its geometric interface shapes flicker in short, steady, calm pulses — deadpan silence against the faint hall murmur. No dialogue. Sound: a short clipped pause, near silence with a faint electronic hum from the screen.
+[Shot 5] At 00:11.000, hard cut to a fixed close-up, eye level, static. <Subject 1>'s face beside and below the brightening edge of <Subject 2>; his eyes flick up as the pale-blue glow intensifies — the system is about to answer. He stares, frozen, lips parted. No dialogue. A short transition tone rises on the final beat and cuts off as the video ends at 00:12.000.
+
+overall_soundscape:
+The soft low murmur of the bustling dining hall continues under all shots, kept quiet. Diegetic accents: low angry vocal growl texture under Shot 1's line, a soft sharp accent on the cut into Shot 2, a light pause beat after Shot 3's line, and a short clipped near-silent pause with faint electronic hum from the light screen in Shot 4. The hum persists faintly in Shots 3 and 5.
+
+non_diegetic_music:
+A single short transition tone rises at 11.0s under the hook in [Shot 5] and cuts off at the video's end. No score elsewhere; the soundscape stays sparse so the comic-panel beats land.

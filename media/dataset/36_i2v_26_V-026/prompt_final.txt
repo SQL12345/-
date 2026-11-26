@@ -1,0 +1,29 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is 陈向阳 (Chen Xiangyang), the adult man defined by <Picture 1>: buzz-cut black hair, tanned weathered skin, olive-green vintage military-style jacket over a light blue shirt, dark green trousers, brown lace-up boots. The red badge on his jacket must remain visible but with no legible text. He holds the baby throughout and speaks two lines.
+<Subject 2> is 陈诺 (Chen Nuo) as an infant, defined by <Picture 2>: chubby baby with dark hair, big dark eyes, cream-colored onesie with navy raglan sleeves, white socks and small white shoes. He is held in <Subject 1>'s arms for the entire shot and only coos softly.
+<Subject 3> is 陈母 (Chen's mother), the elderly woman defined by <Picture 3>: gray hair in a low bun, wrinkled kind face, small gold earrings, navy floral mandarin-collar blouse, beige apron, dark trousers, black cloth shoes. The phone in her reference sheet is a studio prop and is ignored. She enters carrying the enamel sugar-water pot and speaks one line.
+<Subject 4> is the enamel sugar-water pot (搪瓷糖水壶), a vintage patterned enamel pot carried by <Subject 3> and set down on the low wooden table.
+<Subject 5> is the bedroom environment defined by <Picture 4>: a rural home bedroom at night with a wooden bed with red pillows, gray fabric sofa, low wooden coffee table, TV cabinet, wooden wardrobe, curtained window showing dark night, a colorful baby play mat with bottles and toys on the floor, and a framed wedding photo on the wall, lit by warm ceiling and bedside lamps.
+
+summary:
+[reference generation] The target video is a single continuous 12-second static medium shot, eye-level, set inside <Subject 5>, the warm lamp-lit rural bedroom from <Picture 4>, in 1980s Chinese rural realist film style. <Subject 1>, per <Picture 1>, holds <Subject 2>, per <Picture 2>, continuing the pickup pose from the previous shot and speaks softly; <Subject 3>, per <Picture 3>, hurries in carrying <Subject 4>, sets it on the low wooden table, and offers advice; <Subject 1> nods and replies, then looks toward the camera holding the baby as the family atmosphere eases. No subtitles or on-screen text appear at any time.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his buzz cut, olive-green jacket, blue shirt, and trousers are retained; badge text stays illegible.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the baby's cream onesie with navy sleeves, dark hair, and big dark eyes are retained; he is held throughout.
+<Subject 3> (appears in [Shot 1]): fully_preserved - her gray bun, navy floral blouse, beige apron, and black cloth shoes are retained; the studio phone prop is excluded.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the vintage patterned enamel pot is carried in and placed on the table with high fidelity.
+<Subject 5> (appears in [Shot 1]): fully_preserved - the bedroom's furniture, materials, warm lamp lighting, and night window from <Picture 4> are retained as the scene environment.
+
+detailed_description:
+The target video is a single continuous 12-second scene in 1980s Chinese rural realist cinema style: documentary realism, low-saturation earth tones, natural warm lamp light, soft contrast, slight film grain and a faded-film feel, with plain restrained composition and no subtitles or on-screen text of any kind.
+[Shot 1] A static medium shot, eye-level, holds for the full 12 seconds with no cuts, no zoom, and no camera movement. The frame is filled by <Subject 5>, the bedroom from <Picture 4>: wooden bed with red pillows, gray fabric sofa, low wooden table in the mid-ground, baby play mat on the floor, dark night behind the curtained window, all bathed in warm ceiling and bedside lamp glow. On one side of the frame, <Subject 1>, the man in the olive-green jacket and blue shirt per <Picture 1>, stands holding <Subject 2>, the baby in the cream onesie with navy sleeves per <Picture 2>, continuing the pickup pose from the previous shot. From 0.5 s, <Subject 1> (S1) speaks softly and gently toward the off-frame direction of 慧慧, <d>[Chinese] 我明白你的焦虑。以后我尽量早点回来，晚上我哄诺诺睡觉，你多歇一会。能分担的家务，我都分担。</d> The baby rests calmly in his arms, making only faint natural cooing sounds.
+At about 4.5 s, <Subject 3>, the elderly woman with a gray bun, navy floral blouse, and beige apron per <Picture 3>, hurries into the bedroom from the frame side carrying <Subject 4>, the vintage patterned enamel sugar-water pot; her quick footsteps are audible on the floor. She crosses to the low wooden table and at about 6.5 s sets the pot down steadily on the wood with a clear, audible set-down. While settling the pot, <Subject 3> (S2) speaks in a warm, steady elderly voice, <d>[Chinese] 带娃本来就磨人。向阳，你也要体谅慧慧。创业不急在一时，孩子还小，家里更需要人搭把手。</d>
+At about 9.0 s, <Subject 1> (S1) nods gently, adjusts the baby softly in his arms, and replies in a calm, assured tone, <d>[Chinese] 妈，我心里有数。场地我慢慢筛选，不急着签合同。</d> From about 11.0 s to the end, he holds <Subject 2> and looks toward the camera; the tension visibly eases into quiet family warmth, the baby cooing faintly, the warm lamp light steady on all three faces as the shot ends.
+
+overall_soundscape:
+Continuous warm indoor room tone throughout with no silent segments: faint baby cooing from <Subject 2>, <Subject 3>'s quick cloth-shoe footsteps entering around 4.5–5.5 s, the firm enamel-pot set-down on the wooden table around 6.5 s, and soft fabric movement as <Subject 1> nods and adjusts the baby.
+
+non_diegetic_music:
+A single coordinated, gentle, period-appropriate BGM runs continuously from 0 s to 12 s — soft, understated warm strings with a light folk texture at a slow tempo, low in the mix, swelling slightly as the family atmosphere eases near the end, with no silent gaps.

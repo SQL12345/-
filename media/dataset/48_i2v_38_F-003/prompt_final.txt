@@ -1,0 +1,44 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]林小满，清亮坚定成年女声。[Reference Image 2]李富贵，粗犷低沉中年男声。 @赵铁柱，洪亮有力青年男声。 @矿山打手，低沉粗犷男声。【场景锁定】@操场台阶前【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】中景，场景为@操场台阶前内容：@赵铁柱 站在台阶下方，两名@矿山打手 正弯腰蓄力，双臂高举准备扑击。[Reference Image 1]林小满 迅速从侧面冲出，张开双臂挡在@赵铁柱 面前，右手高举手机，屏幕亮光打在她脸上。运镜：固定镜头。台词：[Reference Image 1]林小满（大义凛然，怒斥）：“动一个试试！”音效：急促的脚步声，衣物摩擦声。【镜头2，3-7秒】近景，场景仍为@操场台阶前内容：[Reference Image 1]林小满 脸部特写，表情坚毅，眼神透过发丝直视镜头方向，手机屏幕显示直播界面，观众人数在跳动。运镜：镜头缓慢推进。台词：[Reference Image 1]林小满（语气强硬）：“全网二十万教育公益直播间正看着你们。”音效：手机直播背景音乐隐约传来，电流滋滋声。【镜头3，7-9秒】近景，场景仍为@操场台阶前内容：[Reference Image 1]林小满 保持姿势，下巴微扬，直视前方，手指在手机屏幕上快速滑动。运镜：固定镜头。台词：[Reference Image 1]林小满（冷笑）：“看看谁先踩缝纫机！”音效：手机操作提示音“叮”。【镜头4，9-10秒】中景，场景仍为@操场台阶前内容：[Reference Image 2]李富贵 站在台阶侧面，面如土色，身体明显向后倒退，双手抬起做防御状，眼神惊恐地看着[Reference Image 1]林小满。运镜：跟拍[Reference Image 2]李富贵后退的动作。台词：[Reference Image 2]李富贵（颤抖，市侩）：“你……你居然敢在全网搞背刺？”音效：急促的喘息声。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 林小满, the young woman defined by <Picture 1>: black hair in a low ponytail with loose face-framing strands, fair skin, white collared shirt with rolled sleeves, dark grey fitted waistcoat, dark grey tailored trousers, black flat shoes. She has a clear, firm adult female voice (S1) and carries a smartphone whose lit screen shows a live-stream interface with a viewer count jumping near 200,000.
+<Subject 2> is 李富贵, the heavyset middle-aged man defined by <Picture 2>: messy spiky black hair, broad round face, shiny purple silk tangzhuang jacket with gold floral brocade and frog buttons, loose black trousers, brown cloth shoes. He has a rough, deep middle-aged male voice (S2).
+<Subject 3> is 赵铁柱, a sturdy young man consistent with live-action realism, with a booming, powerful young male voice (unused in dialogue). He stands below the playground steps as the threatened party.
+<Subject 4> are the two 矿山打手, rough mine-worker-type thugs with low, gruff male voices (unused in dialogue). They crouch with arms raised high, mid-windup to strike.
+<Subject 5> is the 操场台阶前 location: outdoor playground steps in natural daylight, the primary set for all four shots.
+<Picture 1> is the identity reference for <Subject 1>.
+<Picture 2> is the identity reference for <Subject 2>.
+<Picture 3> is a cold, overcast mountain-bus interior used strictly as a color-grade and mood reference (desaturated, cold tones); it is not a set in the target video.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic confrontation in front of <Subject 5>, the playground steps. <Subject 1> (per <Picture 1>) shields <Subject 3> from two lunging <Subject 4> thugs by thrusting up her livestreaming phone and shouting a warning; a slow push-in reveals the live-stream UI with the viewer count jumping near 200,000 as she declares the whole internet is watching; she swipes the screen with a "ding" and taunts them; finally <Subject 2> (per <Picture 2>) backs away in fear as the camera tracks his retreat. <Picture 3> contributes only the desaturated, cold color grade.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - her appearance from <Picture 1>, her clear firm female voice, her shielding pose, and her smartphone with live-stream UI are all retained; all three of her verbatim lines are delivered.
+<Subject 2> (appears in [Shot 4]): fully_preserved - his appearance from <Picture 2>, rough deep voice, ashen fear, and backward retreat are retained; his verbatim line is delivered.
+<Subject 3> (appears in [Shot 1]): fully_preserved - he stands below the steps as the threatened party, no dialogue.
+<Subject 4> (appears in [Shot 1]): fully_preserved - two thugs crouching with arms raised, frozen mid-lunge by her intervention, no dialogue.
+<Subject 5> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - all shots remain at the playground steps in natural daylight.
+<Picture 1>: fully_preserved - identity reference for <Subject 1> across Shots 1–3.
+<Picture 2>: fully_preserved - identity reference for <Subject 2> in Shot 4.
+<Picture 3>: weak_reference - only its cold, desaturated tonal palette informs the color grade; no bus interior appears.
+
+detailed_description:
+The target video is a 10-second live-action cinematic scene with realistic acting, natural daylight, film-grade skin texture and hair detail, and a slightly desaturated, cold color grade inspired by <Picture 3>.
+[Shot 1] A fixed medium shot establishes <Subject 5>, the outdoor playground steps in daylight. <Subject 3> 赵铁柱 stands below the steps, tense and braced. Two <Subject 4> mine thugs crouch beside him, arms raised high, bodies coiled mid-windup about to lunge. <Subject 1> 林小满, the young woman per <Picture 1> with her black low ponytail, loose face-framing strands, white shirt and dark grey waistcoat, dashes in rapidly from the side, spreading both arms wide in front of 赵铁柱, her right hand thrusting up a smartphone whose lit screen glow falls across her face. She shouts in a righteous, angry tone with her clear firm female voice, <d>[Chinese] 动一个试试！</d> The audio carries hurried footsteps and the rustle of fabric as she moves.
+[Shot 2] At 00:03.000, the shot cuts to a close-up of <Subject 1> and begins a slow push-in toward her face. Her expression is firm and unflinching, eyes locked forward through the loose strands of hair. The phone screen is visible in frame, showing a live-stream interface with the viewer count visibly jumping near 200,000, the number ticking upward. Faint livestream BGM drifts from the phone speaker with a subtle electric buzz underneath. She speaks in a hard, unyielding tone, <d>[Chinese] 全网二十万教育公益直播间正看着你们。</d>
+[Shot 3] At 00:07.000, the shot cuts to a fixed close-up of <Subject 1>. She holds her pose, chin slightly raised, staring straight ahead with a cold smirk. Her finger swipes quickly across the phone screen, producing a crisp "ding" notification tone. She delivers her taunt with a cold, mocking edge, <d>[Chinese] 看看谁先踩缝纫机！</d>
+[Shot 4] At 00:09.000, the shot cuts to a medium tracking shot that follows <Subject 2> 李富贵, the heavyset man per <Picture 2> in his purple gold-brocade tangzhuang, standing at the side of the steps. His face is ashen, body leaning backward as he stumbles away, both hands raised defensively, eyes wide with fear fixed on <Subject 1>. The camera tracks smoothly with his backward retreat. Rapid panting is audible as he stammers in a trembling, sly tone with his rough deep voice, <d>[Chinese] 你……你居然敢在全网搞背刺？</d> The video ends on his frightened retreat.
+
+overall_soundscape:
+Fully diegetic outdoor sound: hurried footsteps and fabric rustle in Shot 1; faint livestream BGM and subtle electric buzz from the phone in Shot 2; a crisp "ding" notification tone in Shot 3; rapid panting in Shot 4. Quiet playground daylight ambience underlies all shots.
+
+non_diegetic_music:
+N/A

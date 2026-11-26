@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is 姜宝强, the young man whose appearance comes from <Picture 1>: messy black hair, pale skin, tired reddish eyes, gaunt face, gray pullover hoodie, black athletic shorts with white trim, white sneakers. He sits across the mediation table, hands clutching his head, trembling, then collapses into a screaming breakdown with bloodshot eyes. Voice: irritable, rough young male, lacking confidence; his final line delivered as a shrill scream.
+<Subject 2> is the 民警, a middle-aged male police officer in police uniform, stern furrowed brow, cold direct gaze. He slams the red-header seizure inventory document (红头扣押清单) onto the iron table with both hands, then delivers the news in an icy, businesslike tone. Voice: cold, stern middle-aged male.
+<Subject 3> is the key prop 红头扣押清单, an official red-header seizure inventory document, legible as a red-header form but with no added text overlay; slammed in Shot 1 and resting on the iron table through Shots 2–3.
+<Subject 4> is the police station mediation hall interior from <Picture 2>: round wooden mediation table with chairs, blue waiting benches, white filing cabinets, potted plants, wall emblem, blue information posters with Chinese text (“依法调解 公正公平 和谐共建”, “调解工作原则”, “调解办事流程图”)， windows with blinds, wall-mounted TV, marble floor.
+<Picture 1> is the character turnaround sheet serving as the identity and appearance reference for <Subject 1> 姜宝强.
+<Picture 2> is the environment reference and keyframe anchor for all three shots, defining the mediation hall interior.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene set in <Subject 4>, the police station mediation hall from <Picture 2>. <Subject 2> the 民警 slams <Subject 3>, the red-header seizure inventory document, onto the iron table, then coldly informs <Subject 1> 姜宝强 (per <Picture 1>) that the mortgaged 1.2 million has been gambled away to 80,000, triggering Jiang's screaming collapse. <Picture 1> provides Jiang's appearance; <Picture 2> anchors the environment of all three shots. No subtitles, no background music.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 2], [Shot 3]): fully_preserved - messy black hair, pale tired face, gray hoodie, trembling posture, and screaming collapse are retained per <Picture 1>.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - police uniform, stern furrowed brow, cold gaze, and icy delivery are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the red-header document is slammed in Shot 1 and rests on the iron table afterward.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - round mediation table, blue posters, wall emblem, benches, and window blinds are retained.
+<Picture 1> (appearance reference for <Subject 1>): fully_preserved - Jiang's facial features, hair, and clothing follow the turnaround sheet.
+<Picture 2> (environment anchor for all shots): fully_preserved - the hall interior matches the reference image with natural window light through blinds.
+
+detailed_description:
+The target video is a live-action cinematic scene with realistic acting, natural window light filtering through the blinds, film-grade skin texture and hair detail, and a cold, oppressive procedural tone. No subtitles, no background music.
+[Shot 1] A fixed close-up inside <Subject 4>, the mediation hall from <Picture 2>, with soft daylight striping through the blinds. <Subject 2>, the 民警 in police uniform, slams <Subject 3>, the red-header seizure inventory document, down onto the iron table with both hands; the paper vibrates on impact. His face is grave, brows tightly furrowed, jaw set. A dull paper-slam thud rings out, "啪". No dialogue.
+[Shot 2] At 00:02.500, the shot cuts to a medium shot of the same hall. <Subject 2> stands at the round wooden mediation table, gaze cold and direct, and begins speaking in an icy, businesslike tone, <d>[Chinese] 林娇娇在边境落网，但抵押房产的一百二十万，</d> The camera performs a slow, restrained push-in toward the officer's face. Opposite him, <Subject 1> 姜宝强, matching <Picture 1> with messy black hair, pale tired face, and gray pullover hoodie, sits with both hands clutching his head, body leaning forward, visibly trembling. Only room tone accompanies the dialogue.
+[Shot 3] At 00:07.500, the shot cuts to a fixed close-up of <Subject 2>'s lips continuing to move as he finishes the sentence, <d>[Chinese] 赌博挥霍只剩八万。</d> Then a fast cut to <Subject 1> 姜宝强's face: his eyes are bloodshot, hands still gripping both sides of his head, and he screams in emotional collapse, <d>[Chinese] 不可能！那是我的婚房！</d> His shrill scream fills the frame, with a faint low electric hum in the background. The video ends on his contorted face.
+
+overall_soundscape:
+Diegetic sound only: the dull paper-slam thud "啪" on the iron table in Shot 1; quiet mediation-hall room tone with faint ventilation and distant hallway ambience in Shot 2; Jiang's shrill scream with a faint low electric hum in Shot 3.
+
+non_diegetic_music:
+N/A

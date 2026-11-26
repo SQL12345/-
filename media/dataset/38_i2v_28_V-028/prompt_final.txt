@@ -1,0 +1,32 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is 张守义, defined by <Picture 1>: an East Asian man in his 50s with short gray hair, a stern angular face, wearing a navy blue button-down dress shirt, dark navy tailored trousers, and brown leather dress shoes. He is the defiant intruder who carries a transparent document pouch, strides in without pausing, holds eye contact, and never retreats.
+<Subject 2> is 王总, defined by <Picture 2>: a heavier-set East Asian man in his 50s with black slicked-back hair and a broad face, wearing a navy double-breasted suit with a white open-collar shirt, a gold wristwatch, and black leather shoes. He is the general manager seated at the central long table who reacts with shock, slams the table, rises, points aggressively, and shouts.
+<Subject 3> is the pair of two security guards who enter through the side door, one moving left and one right, closing in on 张守义.
+<Subject 4> is the transparent document pouch (透明文件袋) held by 张守义, which must remain clearly visible as an object throughout.
+<Subject 5> is the executive conference room environment (总经理办公室会议室): a heavy conference door, a central long table, a side door, cool-toned overhead light mixed with soft diffused window daylight.
+<Picture 1> is the character turnaround sheet (four views) of 张守义, serving as the identity reference for <Subject 1>.
+<Picture 2> is the character turnaround sheet (four views) of 王总, serving as the identity reference for <Subject 2>.
+
+summary:
+[reference generation] The target video is a 12-second tense urban office drama in live-action cinematic realism. <Subject 1> 张守义, per <Picture 1>, bursts through the heavy door of <Subject 5> holding <Subject 4>; the camera tracks him across and over the central long table and lands on <Subject 2> 王总, per <Picture 2>, who slams the table, rises, and shouts his verbatim line as two guards from <Subject 3> flank 张守义, who stares back unflinching. A unified tense cinematic BGM runs continuously with diegetic ambience; no subtitles or on-screen text appear.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - 张守义's gray hair, stern angular face, navy shirt, dark trousers, and unflinching defiant demeanor are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - 王总's heavyset build, slicked-back black hair, navy double-breasted suit, gold wristwatch, and explosive reaction are retained.
+<Subject 3> (appears in [Shot 2]): fully_preserved - two guards enter through the side door, one left one right, flanking 张守义.
+<Subject 4> (appears in [Shot 1], [Shot 2]): fully_preserved - the transparent document pouch remains clearly visible in 张守义's hand.
+<Subject 5> (appears in [Shot 1], [Shot 2]): fully_preserved - the heavy conference door, central long table, side door, and cool overhead light mixed with window daylight are retained.
+<Picture 1>: fully_preserved - serves as the identity reference for <Subject 1> across both shots.
+<Picture 2>: fully_preserved - serves as the identity reference for <Subject 2> across both shots.
+
+detailed_description:
+The target video uses live-action cinematic realism in a modern urban office style: natural skin texture, real lighting, shallow depth of field, subtle film grain, strong spatial depth, cool overhead light blended with soft diffused window daylight in a compressed, oppressive executive conference room. No subtitles or on-screen text appear at any point.
+[Shot 1] A medium-full shot at eye level opens on <Subject 5>, the executive conference room with its heavy door and central long table. At 0s the heavy door is shoved open violently with a loud bang, and <Subject 1> 张守义, per <Picture 1> — the gray-haired man in his 50s with a stern angular face, navy blue button-down shirt, and dark navy trousers — strides in without pausing, <Subject 4>, the transparent document pouch, clearly visible in his hand. The camera performs a smooth tracking push at eye level, following 张守义 across the room and over the central long table, where brisk footsteps sound on the floor. The push continues across the table surface and lands on <Subject 2> 王总, per <Picture 2> — the heavyset man in his 50s with black slicked-back hair, a navy double-breasted suit, white open-collar shirt, and gold wristwatch — seated opposite at the table. 王总's face changes drastically at the sight of the intruder; at ~5s he slams the table hard and springs to his feet, his chair scraping loudly backward across the floor. The cut lands on his rising motion at ~6s.
+[Shot 2] At 00:06.000, the shot cuts to a medium shot at eye level, continuing from 王总's standing position. <Subject 2> 王总 jabs his finger aggressively toward <Subject 1> 张守义's nose and shouts in a furious, commanding middle-aged male voice, <d>[Chinese] 两个保安，把这个搞事的人给我拖出去！</d> The camera follows his pointing gaze, tilting and tracking down and toward the side door. At ~9s, <Subject 3>, two security guards, push through the side door quickly, moving one left and one right, closing in on 张守义 and flanking him on both sides. 张守义 does not retreat; he stares dead at 王总, the transparent document pouch still in his hand. The camera holds steady on the three-way standoff — guards flanking 张守义, 张守义's unblinking gaze fixed on 王总 — until the final frame.
+
+overall_soundscape:
+Diegetic office ambience and effects continue throughout with no silent gaps: a violent door bang at 0s, brisk footsteps on the floor from 0–5s, a chair scraping backward and a hard table slam at ~5–6s, the side door swinging open with rapid guard footsteps at ~9–11s, and low corporate room tone beneath everything.
+
+non_diegetic_music:
+A single unified tense cinematic BGM runs continuously across the full 12 seconds — low sustained strings and a slow pulsing rhythmic underscore that intensifies slightly as the confrontation escalates, with no dropouts or silent segments.

@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is 王秀芬, the elderly Chinese woman whose identity and appearance are locked to <Picture 1>: gray curly permed hair, weathered round face with visible wrinkles, solemn expression, wearing a dark-red floral cotton tunic with frog buttons, black cropped trousers, and black cloth shoes. She has a sharp, hoarse middle-aged female voice and a remorseful demeanor.
+<Subject 2> is 狱友, a prison inmate with no reference image — a realistic neutral young woman in plain, subdued prison clothing, with a quiet, guarded look. She has a neutral young female voice.
+<Subject 3> is the prison activity room environment: plain institutional interior, a long bench, high windows letting in soft natural daylight, and a television set.
+<Subject 4> is the TV live broadcast content shown on the activity-room screen, matching <Picture 2>: a lavish banquet gala with crystal chandeliers, a red-curtained stage with a white screen, and round tables with white tablecloths — implying the "great designer" ex-daughter-in-law event.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene in a provincial women's prison activity room. <Subject 1> 王秀芬, per <Picture 1>, sits on the bench watching <Subject 4>, the TV broadcast of a banquet gala matching <Picture 2>, and silently wipes a tear of regret. <Subject 2> 狱友 turns to her with a questioning gaze and asks whether the designer on TV is her ex-daughter-in-law; 王秀芬 slowly lifts her head, trembling, and murmurs her remorseful reply. <Picture 1> provides identity reference for 王秀芬; <Picture 2> provides the broadcast screen content. No video or audio references are used.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 3]): fully_preserved - her gray curly permed hair, weathered face, dark-red floral cotton tunic with frog buttons, black cropped trousers, and remorseful demeanor are retained exactly per <Picture 1>.
+<Subject 2> (appears in [Shot 2], partially visible at frame edge in [Shot 3]): fully_preserved - the plain subdued prison clothing and neutral young female appearance remain consistent across shots.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the institutional activity room, bench, high windows, and TV set are retained throughout.
+<Subject 4> (appears in [Shot 1], faintly in [Shot 2]): fully_preserved - the banquet gala broadcast with chandeliers, red-curtained stage, and round tables matches <Picture 2>.
+<Picture 1> (identity reference for <Subject 1>): fully_preserved - facial features, hairstyle, and outfit follow the reference throughout.
+<Picture 2> (screen content in [Shot 1]): fully_preserved - the gala imagery appears as the TV broadcast content.
+
+detailed_description:
+The target video is in a live-action cinematic style with realistic performance, natural institutional lighting — soft daylight from high windows mixed with the cold glow of the TV screen — and film-grade skin texture, visible wrinkles, gray hair strands, and fabric weave detail. No subtitles, no background music.
+[Shot 1] A fixed medium shot, locked off with no movement, establishes <Subject 3>, the prison activity room. <Subject 1> 王秀芬, exactly per <Picture 1> with her gray curly permed hair and dark-red floral cotton tunic with frog buttons, sits on the long bench, head lowered toward the television. The TV screen displays <Subject 4>, a live broadcast matching <Picture 2> — crystal chandeliers, a red-curtained stage, round banquet tables with white tablecloths — implying her ex-daughter-in-law, the "great designer," on stage. 王秀芬 raises the corner of her tunic and silently wipes a tear of regret from her eye. The audio is the noisy TV live-broadcast sound of the gala, plus the soft fabric rustle of her sleeve.
+[Shot 2] At 00:03.000, the shot cuts to <Subject 2> 狱友, seated beside 王秀芬 in the same activity room, the TV broadcast faintly visible and audible in the background. She turns sideways toward 王秀芬, brow furrowed, her eyes carrying a questioning, probing look. The camera performs a slow, restrained push-in from medium to close-up on her face as she speaks in a neutral young female voice with a puzzled, interrogative tone, <d>[Chinese] 秀芬，电视里这大设计师是你前儿媳？</d> No other sound effects in this shot.
+[Shot 3] At 00:07.000, the shot cuts back to a fixed medium shot of <Subject 1> 王秀芬, with <Subject 2> 狱友 partially visible at the frame edge as the person she looks toward. 王秀芬 slowly lifts her head, eyes clouded and unfocused, lips trembling; she glances at 狱友, then lowers her gaze to the floor. In her sharp, hoarse middle-aged female voice, slow-paced and heavy with remorse, she says, <d>[Chinese] 你当初到底图啥把家作散了？图了不属于自己的横财...</d> A heavy, slow heartbeat sound effect underscores her line beneath the quiet room tone, continuing to the final frame.
+
+overall_soundscape:
+Diegetic sound only throughout: in [Shot 1], the noisy TV live-broadcast audio of the gala and the soft fabric rustle of 王秀芬 wiping her tear; in [Shot 2], the faint continuation of the broadcast under the dialogue; in [Shot 3], quiet institutional room tone with a heavy, slow heartbeat sound effect beneath the spoken line.
+
+non_diegetic_music:
+N/A

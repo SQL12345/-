@@ -1,0 +1,35 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图3。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】@图片1小林，清脆活泼青年男声，语速快，充满激情。 @图片2苏宝强，粗犷青年男声，前期带有痞气，后期变得诚恳恭敬。【场景锁定】小林工作室大屏幕前。【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】中景，场景为小林工作室大屏幕前内容：背景是大屏幕，显示纽约、伦敦、东京商超货架，"桃源仙蜜"售罄。前景@图片1小林戴黑框眼镜，身体前倾，热气腾腾地敲击键盘。运镜：固定镜头。台词：@图片1小林（热泪盈眶，激动）：“晴姐！全球五大洲...”音效：键盘清脆敲击声"哒哒"，城市环境音隐约传来。【镜头2，3-6秒】切镜到近景，场景仍为小林工作室大屏幕前内容：@图片1小林 脸部特写，眼眶泛红，眼神狂热且坚定，手指重重按下回车键。运镜：镜头缓慢推进。台词：@图片1小林（高声呐喊）：“...全面打通，走向世界了！”音效：回车键沉重落下的"咚"声，欢呼声渐起。【镜头3，6-8秒】切镜到中景，场景仍为小林工作室大屏幕前内容：@图片2苏宝强 穿着蓝色工服，从侧面快速进入画面，脸上带着兴奋笑容，与@图片1小林 双手击掌庆祝。运镜：跟拍：镜头跟随主体移动。台词：@图片2苏宝强（大声吼道）：“大厂高管回村不是退隐，”音效：击掌声"啪"，掌声热烈。【镜头4，8-10秒】切镜到全景，场景仍为小林工作室大屏幕前内容：@图片2苏宝强 和 @图片1小林 并肩站立，面向大屏幕，@图片2苏宝强 张开双臂，充满力量感。运镜：推轨左摇右。台词：@图片2苏宝强（庄严且激情）：“是席卷全球的壮美远征！”音效：激昂的交响乐高潮部分，BGM宏大。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 小林, the young man whose face and wardrobe come from <Picture 2>: messy dark brown hair, black rectangular glasses, plaid grey-white shirt over a white tee, olive cargo pants. He speaks with a crisp, lively, fast-paced, passionate young male voice (S1).
+<Subject 2> is 苏宝强, the rugged young man whose face and physique come from <Picture 3>: spiky black hair, weathered face with faint scars, wearing a blue work uniform per the intent (replacing the denim jacket styling). He speaks with a rough young male voice, roguish early and sincere/respectful later (S2).
+<Subject 3> is the studio environment and key set prop: 小林's workspace before a huge screen displaying supermarket shelves in New York, London, and Tokyo, with the products "桃源仙蜜" marked "售罄" (sold out); the screen's glow is the main light source on the characters' faces.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic clip set in <Subject 3>, 小林's studio before the big screen showing "桃源仙蜜" sold out across New York, London, and Tokyo. <Subject 1> 小林 types feverishly and shouts his triumphant line, then <Subject 2> 苏宝强 rushes in, high-fives him, and delivers a grand declaration as the two face the screen. <Picture 2> and <Picture 3> provide the two characters' identities; <Picture 1> (rainy rural courtyard) does not appear on screen and only informs the emotional backstory. No <Video N> or <Audio N> assets are used; all sound is generated.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - 小林's messy dark brown hair, black rectangular glasses, plaid shirt, and olive cargo pants from <Picture 2> are retained across all shots.
+<Subject 2> (appears in [Shot 3], [Shot 4]): fully_preserved - 苏宝强's spiky black hair, weathered scarred face, and blue work uniform from <Picture 3> are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the studio and big screen with verbatim text "桃源仙蜜" and "售罄" on the New York, London, and Tokyo shelf displays are retained throughout.
+<Picture 1>: weak_reference - the rainy rural courtyard does not appear on screen; it only informs the emotional backstory of the "returning from the city" theme.
+
+detailed_description:
+The target video is a 10-second live-action cinematic clip with realistic acting, natural lighting, photographic skin texture and hair detail, and a triumphant, passionate tone; warm light from the big screen illuminates the characters' faces.
+[Shot 1] A fixed medium shot establishes <Subject 3>, the studio before the huge screen, which displays supermarket shelves in New York, London, and Tokyo with "桃源仙蜜" marked "售罄". In the foreground, <Subject 1> (S1), 小林 with messy dark brown hair, black rectangular glasses, plaid grey-white shirt over a white tee, and olive cargo pants, leans forward at the desk, typing feverishly on a steaming keyboard, his eyes welling with tears. Crisp keyboard clicks "哒哒" sound while faint city ambience drifts in from the screen. <Subject 1> (S1) exclaims, tearful and excited, in his crisp, fast, passionate young male voice, <d>[Chinese] 晴姐！全球五大洲...</d> He keeps typing, lips parting as the line trails off.
+[Shot 2] At 00:03.000, the shot cuts to a close-up with a slow push-in. <Subject 1> (S1)'s face fills the frame, screen glow warm on his skin, eyes reddened, gaze fanatical and determined. His finger slams down heavily on the Enter key with a deep "咚" thud, and he shouts, <d>[Chinese] ...全面打通，走向世界了！</d> Rising cheers begin to swell beneath his voice as the push-in continues.
+[Shot 3] At 00:06.000, the shot cuts to a medium shot, tracking to follow the subject as he moves. <Subject 2> (S2), 苏宝强 with spiky black hair, a weathered face with faint scars, wearing his blue work uniform, rushes in quickly from the side of the frame with an excited grin. He and <Subject 1> (S1) high-five with both hands, the sharp "啪" slap landing amid warm applause. <Subject 2> (S2) roars loudly in his rough young male voice with roguish energy, <d>[Chinese] 大厂高管回村不是退隐，</d> The tracking shot settles as the two hold the high-five, his line hanging open across the cut.
+[Shot 4] At 00:08.000, the shot cuts to a wide shot with a dolly push panning left to right. <Subject 2> (S2) and <Subject 1> (S1) stand shoulder to shoulder facing the glowing big screen with its "桃源仙蜜" / "售罄" displays. <Subject 2> (S2) spreads his arms wide, full of power, and declares solemnly and passionately, <d>[Chinese] 是席卷全球的壮美远征！</d> The grand orchestral score peaks as the dolly push completes on the two silhouetted against the triumphant screen glow.
+
+overall_soundscape:
+Diegetic sound throughout: crisp keyboard clicks "哒哒" and faint city ambience in Shot 1, the heavy Enter-key "咚" thud and rising crowd cheers in Shot 2, the high-five "啪" slap and warm applause in Shot 3, and lingering applause under the final wide shot.
+
+non_diegetic_music:
+A grand orchestral score builds from Shot 1, swells through Shots 2 and 3, and reaches a full epic climax in Shot 4 as 苏宝强 delivers his final line.

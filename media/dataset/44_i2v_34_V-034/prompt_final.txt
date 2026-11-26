@@ -1,0 +1,36 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is 霍拾焰， the middle-aged Chinese man whose identity comes from <Picture 1>: short neat black hair, warm confident expression, navy-blue work jacket with chest pockets and small badge over a light-blue collared shirt, matching navy trousers, black leather shoes. He is the park investment officer; his voice timbre comes from <Audio 1>.
+<Subject 2> is 林小满， the young Chinese woman (~28) whose identity comes from <Picture 2>: short black bob, calm serious expression, oversized light-gray hoodie, blue ID badge on a white lanyard, dark-gray trousers, white sneakers. She is the arriving entrepreneur; her voice timbre comes from <Audio 2>.
+<Subject 3> is the exhibition-hall environment from <Picture 3>: a large dark-blue world-map video wall with glowing orange location points, a white architectural sandbox model of the business park on a low platform, gray carpet, linear ceiling lights, tall windows with soft daylight, and a wooden sign reading “园区招商展示区” above the map.
+<Subject 4> is the row of partner-vendor icons below the map wall — 货源、物流、报关、财税 — which light up in sequence as in-scene UI.
+<Subject 5> is the rolling suitcase 林小满 carries and sets down.
+<Subject 6> is the paper form titled 《入园申请表》， its title legible and its body text blurred in post.
+<Audio 1> is the voice-timbre reference for <Subject 1> (S1): a deep, rich, steady, magnetic middle-aged male voice.
+<Audio 2> is the voice-timbre reference for <Subject 2> (S2): a 28-year-old gentle older-sister female voice delivered in a solemn, serious tone.
+
+summary:
+[reference generation + audio reference] The target video is a 12-second live-action cinematic scene set in <Subject 3>, the park investment exhibition hall from <Picture 3>. <Subject 1> (Picture 1 look, Audio 1 voice) presents the park's full-chain partner support at the world map as <Subject 4>'s icons light up, explains the "service-for-rent" model with an overlay card, then hands <Subject 2> (Picture 2 look, Audio 2 voice) the application form <Subject 6> after she commits with her suitcase <Subject 5>. <Audio 1> and <Audio 2> serve as voice-timbre references for the two speakers.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 4]): fully_preserved - his navy work jacket, blue collared shirt, badge, hairstyle, and confident demeanor from <Picture 1> are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - her short black bob, gray hoodie, blue badge lanyard, and calm-serious look from <Picture 2> are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the world-map video wall, sandbox model, gray carpet, window daylight, linear ceiling lights, and wooden “园区招商展示区” sign are retained as the continuous setting.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the four icons 货源、物流、报关、财税 light up in sequence as in-scene UI.
+<Subject 5> (appears in [Shot 3]): fully_preserved - the rolling suitcase is set down with a thud.
+<Subject 6> (appears in [Shot 4]): partially_preserved - the form title 《入园申请表》 is legible while the body text is blurred in post, as specified.
+<Audio 1>: reference - its deep, magnetic middle-aged male timbre guides all of <Subject 1>'s dialogue delivery without copying the original signal.
+<Audio 2>: reference - its gentle, solemn female timbre guides <Subject 2>'s line delivery without copying the original signal.
+
+detailed_description:
+The target video is a 12-second live-action cinematic scene in modern urban realism: natural skin texture, restrained realistic lighting mixing soft window daylight with linear ceiling lights, shallow depth of field, subtle film grain, and true lens character. Tone is confident, warm, and businesslike. No subtitles; the only on-screen text is in-scene or the specified overlays.
+[Shot 1] A medium side-view shot at eye level opens in <Subject 3>, in front of the dark-blue world-map video wall with the white sandbox model providing foreground-background depth and the wooden “园区招商展示区” sign visible above. <Subject 1> (S1), the middle-aged man in the navy work jacket and light-blue collared shirt from <Picture 1>, points at <Subject 4>, the partner-vendor icons below the map; 货源、物流、报关、财税 light up one by one with soft icon chimes as rhythmic drum beats pulse underneath. The camera tracks laterally, smoothly following his pointing gesture. <Subject 2>, the young woman in the gray hoodie with the blue badge lanyard from <Picture 2>, stands beside him watching the icons. <Subject 1> (S1) speaks in the deep, rich, steady, magnetic middle-aged male timbre referenced from <Audio 1>, <d>[Chinese] 没覆盖的地界儿，园区帮你撮合第三方；货源、物流、报关、财税，全链路配套。</d>
+[Shot 2] At 00:03.000, the shot cuts to a close eye-level shot of <Subject 1> (S1), fixed with a slight slow push-in. He lightly pats the table with his palm; in post, an overlay card reading "服务置换租金" pops up beside him with a card-pop sound and a soft coin chime. He continues in the same <Audio 1> timbre, <d>[Chinese] 配套商还能拿服务置换租金，你拿创业服务券就能兑换服务。</d> His expression stays warm and assured as the push-in settles.
+[Shot 3] At 00:06.000, the shot cuts to a medium shot of <Subject 2> from a slightly low angle with a quick, restrained push-in. She sets <Subject 5>, her rolling suitcase, down on the gray carpet with a firm thud; the drum beats kick in stronger. Her eyes are firm and determined as she declares in the gentle but solemn female timbre referenced from <Audio 2>, <d>[Chinese] 入驻申请，我现在就填。</d> The map wall glows softly behind her.
+[Shot 4] At 00:09.000, the shot cuts to a medium-close over-shoulder framing over <Subject 2>'s shoulder toward <Subject 1> (S1). He smiles and hands her <Subject 6>, the paper form titled 《入园申请表》 with its body text blurred in post; the camera gently follows the form as it passes between them, accompanied by a paper-rustle sound. <Subject 1> (S1) says warmly in the same <Audio 1> timbre, <d>[Chinese] 就等你这句话。</d> <Subject 2> reaches to receive the form as light upbeat music carries the warm resolution to the final frame.
+
+overall_soundscape:
+Quiet indoor exhibition-hall room tone with a faint ventilation hum continues throughout. Diegetic effects: icon-lighting chimes in [Shot 1], card-pop and soft coin sounds in [Shot 2], suitcase thud in [Shot 3], and paper-rustle handover in [Shot 4]. Dialogue is diegetic, clear, and intimate over the bed.
+
+non_diegetic_music:
+Rhythmic drum beats under [Shot 1] and [Shot 2], drums kicking in stronger at [Shot 3], then light upbeat music for [Shot 4]'s warm resolution; restrained dynamics, no swell.

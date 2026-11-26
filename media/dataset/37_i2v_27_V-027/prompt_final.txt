@@ -1,0 +1,26 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is Su Wan (苏婉), the young East Asian woman defined by <Picture 1>: chin-length dark bob with center part, calm resolute expression, natural skin texture, wearing a dark navy zip-up tactical jacket over a black top, dark cargo pants, and black lace-up combat boots. She holds the police tactical gun (警用战术枪) in a two-handed grip.
+<Subject 2> is the Gravekeeper Leader (守墓人首领)， the older East Asian man (~50s–60s) defined by <Picture 2>: messy gray-streaked hair, weathered gaunt face, goatee, sunken intense eyes, wearing a worn stained dark-blue work jacket with brownish shoulder boards and a small badge, grubby light shirt underneath, faded dark work pants, and scuffed black shoes.
+<Subject 3> is the environment: the underground city pipe-network core area (城市地下管网核心区域)， dim and cavernous, lit only by cold emergency lights, with deep pipe shadows, damp concrete surfaces, and a dead-silent atmosphere.
+<Subject 4> is the police tactical gun (警用战术枪， basic form), a compact dark tactical firearm held two-handed by <Subject 1> and kept steadily aimed.
+
+summary:
+[reference generation] The target video is a 12-second live-action cinematic confrontation in <Subject 3>, the dim underground pipe-network core area. <Subject 1> Su Wan, whose face, hair, and costume fidelity come from <Picture 1>, aims <Subject 4> into the pipe depths as <Subject 2> the Gravekeeper Leader, whose weathered appearance comes from <Picture 2>, slowly emerges from the shadows with a metallic scraping sound. She tenses and speaks her line; the shot cuts to a close-up of his cold rising smirk as he delivers his monologue, the camera slowly pushes in, and the frame freezes on his smirk, sealing the three-way standoff deadlock. No subtitles or on-screen text; continuous global BGM and ambient sound with no muted segments.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - Su Wan's dark bob, navy tactical jacket, black top, cargo pants, combat boots, and resolute features from <Picture 1> are retained exactly.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - the Gravekeeper Leader's weathered gaunt face, messy gray hair, goatee, sunken eyes, and worn dark-blue work jacket from <Picture 2> are retained exactly, dominating the Shot 2 close-up.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the dim pipe-network core area with cold emergency-light glow and deep pipe shadows is the sole setting throughout.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the police tactical gun is held two-handed and kept steadily aimed; it does not appear in Shot 2.
+
+detailed_description:
+The target video uses a modern urban live-action realistic style with cinematic photography: cold practical emergency lighting, natural skin texture, shallow depth of field, subtle film grain, and restrained, oppressive tension. No subtitles or on-screen text appear at any point.
+[Shot 1] The scene opens on a static eye-level medium shot inside <Subject 3>, the underground pipe-network core area, where cold emergency lights cast a pale blue-white glow over damp concrete and receding rows of dark pipes. <Subject 1> Su Wan, matching <Picture 1> exactly, frames left of center, holding <Subject 4>, the police tactical gun, in a steady two-handed grip aimed warily into the pipe depths, her body coiled and alert. At around 1.5s a metallic scraping sound rises from the shadows ahead of her aim line, and <Subject 2> the Gravekeeper Leader, matching <Picture 2> exactly, slowly steps out of the darkness, his worn dark-blue work jacket catching the cold light, and stops a few meters from her. Su Wan instantly snaps taut, raising the gun to point directly at him, her eyes widening with disbelief. At ~4.5s she says in a tight, strained voice, <d>[Chinese] 你？守墓人首领是你？！</d> Her finger stays on the trigger guard as the tension peaks.
+[Shot 2] At 00:05.500, the shot cuts to an eye-level close-up of <Subject 2>'s face, the dead pipe shadows soft behind him, cold emergency light carving the weathered lines of his gaunt face. His mouth corner slowly curls upward into a cold, sinister smirk. He stares forward with mesmerizing, sunken eyes and says in a low, cold, hypnotic voice, <d>[Chinese] 我是周队退休前最忠诚的副手。他们说我疯了，说我被古法侵蚀。但你们，只是被系统绑架的提线木偶。</d> As the line lands, the camera executes a slow, steady push-in toward his face. In the final frames the image freezes on the held arc of his smirk, the three-way standoff deadlock forming in the dead-silent pipe shadows.
+
+overall_soundscape:
+A continuous diegetic ambient layer runs through the full 12 seconds with no muted segments: low pipe hum, distant water drips, and the metallic scraping sound as the Gravekeeper Leader emerges (~1.5–3s). Dialogue is dry and close, matching the enclosed concrete space.
+
+non_diegetic_music:
+A continuous unified global BGM spans the entire video: a low, tense, slowly building underscore with dark sustained strings and a faint sub-bass pulse, never swelling abruptly, holding the oppressive standoff atmosphere through the final freeze.

@@ -1,0 +1,36 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]赵雅琳，干练爽利中年女声，节奏明快，充满自信。 @年轻女工程师，青年女性音色。【场景锁定】@全自动化智能生态车间内。【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】全景，场景为@全自动化智能生态车间内内容：[Reference Image 1]赵雅琳 站在中央控制台前，背景巨型机械臂精准翻飞作业，[Reference Image 1]赵雅琳 手势指点，几位@年轻女工程师 专注聆听。运镜：固定镜头。台词：无对白。音效：机械臂运转的轻微伺服声“嗡——”，金属碰撞清脆声。【镜头2，3-7秒】切镜到中景，场景仍为@全自动化智能生态车间内内容：[Reference Image 1]赵雅琳 面部表情欣慰，目光扫视众人，身体微微前倾。运镜：镜头向主体缓慢推进。台词：[Reference Image 1]赵雅琳（欣慰感叹）：“以前车间只有汗水，现在全是高科技，姑娘们，未来在你们手里！”音效：无【镜头3，7-10秒】切镜到近景，场景仍为@全自动化智能生态车间内内容：@年轻女工程师 面对镜头，笑容自信灿烂，右手握拳微微挥动。运镜：固定镜头。台词：@年轻女工程师（自信欢笑）：“师傅教得好，我们中年有大将领军，青年有后继铁军！”音效：无
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 赵雅琳, the middle-aged female engineer defined by <Picture 1>: layered dark-brown short bob, calm confident expression, navy-blue buttoned work jacket over a grey undershirt, black cargo trousers, black shoes. Her voice is a capable, brisk, confident female timbre with a youthful quality (S1).
+<Subject 2> is the young female engineer(s) in matching workwear: attentive listeners in the group, one of whom steps forward for the final close-up. The speaking engineer's voice is a bright, confident young female timbre (S2).
+<Subject 3> is the fully automated smart eco workshop environment: a central control console with glowing screens, giant robotic arms working in precise sweeping motions in the background, clean industrial surfaces under natural lighting.
+<Picture 1> is the character reference sheet providing 赵雅琳's face, hairstyle, and work uniform.
+<Picture 2> is a bright modern living room; it is excluded and not used anywhere in the target video.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene set in <Subject 3>, the fully automated smart eco workshop. <Subject 1> 赵雅琳, whose appearance comes from <Picture 1>, stands at the central control console explaining to a group of <Subject 2> young female engineers while giant robotic arms work behind them; she then delivers a gratified line in a slow push-in medium shot, and one young engineer answers in a fixed close-up with a confident smile and a small fist pump. <Picture 2> is excluded from the video.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - her face, short dark-brown bob, navy work jacket, and black cargo trousers from <Picture 1> are retained; her locked confident female voice delivers her line verbatim.
+<Subject 2> (appears in [Shot 1], [Shot 3]): fully_preserved - the group of young female engineers in matching workwear listens in Shot 1; one engineer delivers the reply line with a bright young female voice in Shot 3.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the control console, robotic arms, and industrial workshop environment persist across all shots.
+<Picture 1> (character reference): fully_preserved - used as the identity and appearance reference for <Subject 1>.
+<Picture 2>: excluded - not used in any shot.
+
+detailed_description:
+The target video is in a live-action cinematic realistic style with natural industrial lighting, photographic skin and hair detail, and no subtitles, on-screen text, or background music.
+[Shot 1] A fixed wide shot establishes <Subject 3>, the fully automated smart eco workshop: a clean, brightly lit floor where giant robotic arms sweep and pivot in precise, rhythmic motions in the background. At center frame, <Subject 1> 赵雅琳 in her navy-blue work jacket and black cargo trousers stands before the central control console, its screens casting a soft glow. She gestures with one hand as she explains, while several <Subject 2> young female engineers in matching workwear stand around her, listening attentively with focused expressions. The only sound is the diegetic ambience of the robotic arms: a light servo hum ("嗡——") and crisp metallic clinks. The camera remains completely still.
+[Shot 2] At 00:03.000, the shot cuts to a medium framing of <Subject 1> and slowly pushes in toward her. Her expression turns gratified and proud, her eyes sweeping across the team as she leans slightly forward. The robotic-arm ambience fades to silence. <Subject 1> (S1) speaks warmly in her capable, brisk, confident female voice with a gratified, exclamatory tone, <d>[Chinese] 以前车间只有汗水，现在全是高科技，姑娘们，未来在你们手里！</d> She closes her mouth into a soft proud smile as the push-in settles.
+[Shot 3] At 00:07.000, the shot cuts to a fixed close-up of one <Subject 2> young female engineer facing the camera directly. She breaks into a bright, confident smile, raises her right hand in a small determined fist pump, and replies cheerfully in a bright, confident young female voice, <d>[Chinese] 师傅教得好，我们中年有大将领军，青年有后继铁军！</d> She holds her smile and lowered fist through the final frame. No ambience or music.
+
+overall_soundscape:
+In [Shot 1], the workshop's diegetic ambience features a light servo hum from the robotic arms and crisp metallic clinks; [Shot 2] and [Shot 3] carry clean room tone with no added effects.
+
+non_diegetic_music:
+N/A

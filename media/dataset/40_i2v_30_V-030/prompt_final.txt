@@ -1,0 +1,31 @@
+｜产线原文
+subject_definitions:
+<Subject 1> is the young daughter in <Picture 1>: a young East Asian woman with long brown hair, white short-sleeve T-shirt, high-waisted blue jeans, white canvas sneakers, with a light-colored single-shoulder bag added when she appears at the door.
+<Subject 2> is the father in <Picture 2>: a middle-aged/older East Asian man with grey hair, light grey-blue button-down shirt, dark navy trousers, and black leather shoes.
+<Subject 3> is the mother in <Picture 3>: an elderly East Asian woman with a short grey bob, cream cardigan over a lavender top, beige trousers, and beige suede loafers.
+<Subject 4> is the hairless Sphynx cat in <Picture 4>: grey-and-white wrinkled skin, large upright ears, yellow-green eyes, white muzzle and chest.
+<Audio 1> is the pacing and dialogue-timing reference track: its embedded beat slots govern the cut points and the three dialogue timing slots, and its voice timbres define each character's delivery (mother: higher-pitched, fast, agitated middle-aged female; father: mid-low, fast, interrogating middle-aged male; daughter: higher-pitched, fast, urgent young female).
+
+summary:
+[reference generation + audio reference] The target video is an 8-second realistic cinematic family comedy skit. <Subject 1> enters through a dark-red door, <Subject 4> emerges from her collar, <Subject 3> screams while brandishing a mop, <Subject 2> rises from the sofa pointing at the daughter in a three-way standoff, and the daughter deadpans "It's a cat" while presenting the cat's face to the camera. <Picture 1>–<Picture 4> drive the identities of <Subject 1>–<Subject 4>; <Audio 1> provides the cut rhythm and dialogue timing slots, and its timbres guide delivery without the signal being copied.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 4], [Shot 5]): fully_preserved - the daughter's long brown hair, white tee, blue jeans, canvas sneakers, and light shoulder bag are retained throughout.
+<Subject 2> (appears in [Shot 4]): fully_preserved - the father's grey hair, light grey-blue shirt, and navy trousers are retained.
+<Subject 3> (appears in [Shot 3], [Shot 4]): fully_preserved - the mother's grey bob, cream cardigan, and lavender top are retained.
+<Subject 4> (appears in [Shot 2], [Shot 5]): fully_preserved - the Sphynx's grey-and-white wrinkled skin, large upright ears, and yellow-green eyes are retained.
+<Audio 1>: reference - its rhythm and beat slots set the cut points and dialogue timing (mother ~3.9–4.5s, father ~5.6–6.6s, daughter ~6.9–7.5s); its voice timbres guide each speaker's delivery without the original signal being copied.
+
+detailed_description:
+The target video is a realistic cinematic family comedy skit with film grain, warm indoor lighting, and shallow depth of field, cut to the rhythm of <Audio 1>.
+[Shot 1] The video opens with a low floor-level static close-up, eye-level to the floor, in an apartment entryway: light wood-grain flooring, a closed dark-red wooden door, off-white wall and dark baseboard to the right, wooden chair legs at the frame edge, and a heavy vignette like a view through a crack. The door swings slowly inward, warm light leaking through the widening gap; a white canvas sneaker probes the threshold first, then <Subject 1>, the young woman with long brown hair in a white short-sleeve tee and blue jeans, strides across the threshold, both feet landing on the wood floor, standing facing inside. A soft door creak and footsteps sound under the diffuse warm light.
+[Shot 2] At 00:02.270, the shot cuts to a static close-up on <Subject 1>'s collarbone and chest, focus pulling from soft to sharp. Her neck and the shoulder strap of her light bag fill the frame under cool soft side light. <Subject 4>, the grey-and-white Sphynx cat with wrinkled skin, slowly pushes its head up out of her white collar — eyes closed at first, then snapping open yellow-brown as the large ears unfurl, staring straight ahead into the lens. A soft fabric rustle accompanies the reveal against a dark blurred background.
+[Shot 3] At 00:03.530, the shot cuts to a medium close-up with slight handheld follow in a sunlit living room with beige walls, framed paintings, and sunlit curtains. <Subject 3>, the elderly woman with a grey bob in a cream cardigan over a lavender top, grips a mop. She looks down, then whips her head up — eyes wide, mouth open — and swings the mop shaft up defensively in front of her as she shouts in a higher-pitched, fast, agitated middle-aged female voice timed to <Audio 1>'s slot, <d>[Chinese] 你领子里那是什么东西？</d> A sharp gasp precedes the line under warm window side light.
+[Shot 4] At 00:04.470, the shot cuts to a medium shot, fixed camera with a slight pan. <Subject 2>, the grey-haired man in the light grey-blue shirt, sits on the beige sofa in the foreground, finger at his mouth. He snaps his head toward the doorway where <Subject 1> stands frozen and stunned, backlit with rim light, her light shoulder bag on her shoulder; he rises sharply and points accusingly at her while delivering his line in a mid-low, fast, interrogating middle-aged male voice timed to <Audio 1>, <d>[Chinese] 你带了个什么外星生物回来？</d> <Subject 3> hurries to the wall and turns to face the daughter, completing the three-way standoff as the depth of field widens from shallow to full under warm mixed interior light. His sharp rising footsteps punctuate the confrontation.
+[Shot 5] At 00:06.630, the shot cuts to a frontal fixed medium close-up with slight shake in the hallway, blurred dark door and light-grey wall behind. <Subject 1>, with <Subject 4>'s head poking out before her neck, protests urgently — brows knit, mouth changing shape — her expression toggling between aggrieved and astonished as she says in a higher-pitched, fast, urgent young female voice timed to <Audio 1>, <d>[Chinese] 是猫。</d> She then raises both hands to cup the cat's cheeks and present its squinting, wrinkled face toward the camera while the cat shrinks its neck, under warm top light with soft facial contrast.
+
+overall_soundscape:
+Diegetic sound only: a door creak and footsteps on wood in Shot 1; a soft fabric rustle in Shot 2; the mother's sharp gasp and shout in Shot 3; the father's sharp rising footsteps in Shot 4; and quiet interior room tone throughout. No background music.
+
+non_diegetic_music:
+N/A

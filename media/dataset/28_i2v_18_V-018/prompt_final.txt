@@ -1,0 +1,37 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]赵鹏，尖细刻薄中年男声，带有明显的鼻音，语速快且急促；[Reference Image 2]钱大伟，低沉阴冷中年男声，语速缓慢，充满压迫感。【场景锁定】@公司大堂。【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】全景，场景为@公司大堂内容：[Reference Image 1]赵鹏 从@公司大堂 的旋转门或电梯厅方向狼狈冲下台阶，衣领凌乱，正撞上迎面而来的[Reference Image 2]钱大伟，两人瞬间在大堂中央撕扯在一起，身体剧烈碰撞。运镜：固定镜头。台词：无对白。音效：急促的脚步声"哒哒哒"，衣物剧烈摩擦声"哗啦"。【镜头2，3-6秒】切镜到近景，场景仍为@公司大堂内容：[Reference Image 1]赵鹏 被[Reference Image 2]钱大伟 抓住衣领，面部扭曲，眼神惊恐且愤怒，胸口剧烈起伏。运镜：镜头向主体缓慢推进。台词：[Reference Image 1]赵鹏 （破防咆哮）：“姐夫救我！那三个女人把阴阳账本全给捅出去了！”音效：尖细急促的人声，背景嘈杂感。【镜头3，6-8.5秒】切镜到中景，场景仍为@公司大堂内容：[Reference Image 2]钱大伟 面容阴沉，眼神冰冷，右手高高扬起，狠狠一记耳光抽在[Reference Image 1]赵鹏 脸上，[Reference Image 1]赵鹏 头部猛烈甩向一侧。运镜：跟拍：镜头跟随[Reference Image 2]钱大伟 挥臂的动作快速右摇左。台词：无对白。音效：清脆响亮的巴掌声“啪！”一声巨响。【镜头4，8.5-10秒】切镜到近景，场景仍为@公司大堂内容：[Reference Image 2]钱大伟 收回手，嘴角微撇，神情漠然且充满压迫感，看着[Reference Image 1]赵鹏 。运镜：固定镜头。台词：[Reference Image 2]钱大伟 （低沉，语速缓慢）：“蠢货！我让你低调平账，谁让你大半夜跑来纵火留把柄！”音效：低沉的人声，大堂内短暂死寂后的环境回声。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 赵鹏, the heavyset middle-aged East Asian man defined by <Picture 1> — short black hair, stern broad face, navy pinstripe suit jacket, white open-collar shirt, dark grey trousers, black shoes. Voice: shrill, nasal, fast, urgent middle-aged male voice. Role: the panicked man who rushes into the lobby, gets seized by the collar, screams the desperate line, and takes the slap.
+<Subject 2> is 钱大伟, the tall lean middle-aged East Asian man defined by <Picture 2> — swept-back black hair greying at the temples, sharp cold features, all-black suit, black shirt, black belt, black shoes. Voice: deep, cold, slow, oppressive middle-aged male voice. Role: the man 赵鹏 collides with; he grabs the collar, delivers the slap, and delivers the final cold rebuke.
+<Subject 3> is the 公司大堂 (company lobby) environment, dressed with the materials palette of <Picture 3> — grey stone walls, dark wood accents, polished marble floor, cool natural daylight from tall windows — including the rotating door / elevator hall, entry steps, and open central floor.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene in <Subject 3>, the company lobby styled after <Picture 3>'s grey-stone, dark-wood, marble-floor palette with cool natural daylight. <Subject 1> 赵鹏 (from <Picture 1>) stumbles down the steps and slams into <Subject 2> 钱大伟 (from <Picture 2>); they grapple, 钱大伟 seizes his collar, 赵鹏 screams his desperate line, 钱大伟 delivers a vicious slap, then delivers a cold rebuke. Four shots with fixed, push-in, whip-pan, and fixed camera respectively; no subtitles, no music, no on-screen text.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - 赵鹏's face, heavyset build, navy pinstripe suit, white open-collar shirt, and disheveled collar are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - 钱大伟's face, lean build, all-black suit, and greying temples are retained throughout.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the lobby's grey stone, dark wood, marble floor, rotating door / elevator hall, steps, and cool daylight are retained across all shots.
+<Picture 1>: fully_preserved - identity reference for <Subject 1>, followed in face, build, and wardrobe.
+<Picture 2>: fully_preserved - identity reference for <Subject 2>, followed in face, build, and wardrobe.
+<Picture 3>: weak_reference - only its materials palette and lighting character dress the lobby environment; the room itself is a lobby, not the executive office shown.
+
+detailed_description:
+The target video is a live-action cinematic corporate-thriller scene with photoreal skin and hair detail, realistic performances, and natural cool daylight in a luxury company lobby (公司大堂) dressed with the grey stone, dark wood, and polished marble palette of <Picture 3>. No subtitles, no background music, no on-screen text.
+[Shot 1] A fixed wide shot establishes <Subject 3>, the 公司大堂: rotating door and elevator hall at the back, entry steps, marble floor reflecting cool daylight from tall windows. <Subject 1> 赵鹏, in his navy pinstripe suit from <Picture 1> with collar askew and jacket askew, stumbles down the steps in a panicked rush, rapid urgent footsteps sounding "哒哒哒" against the marble, and slams bodily into <Subject 2> 钱大伟, the tall lean man in the all-black suit from <Picture 2>, who is walking toward him. The two instantly grapple in the center of the lobby, bodies colliding hard, with violent fabric-friction rustle "哗啦". No dialogue.
+[Shot 2] At 00:03.000, the shot cuts to a close-up with a slow push-in toward the subjects. <Subject 2> grips <Subject 1>'s collar in his fist. <Subject 1>'s face is twisted, eyes terrified and furious, chest heaving. He breaks into a desperate roar in his shrill, nasal, fast voice, <d>[Chinese] 姐夫救我！那三个女人把阴阳账本全给捅出去了！</d> A chaotic murmur of the lobby hums behind his voice.
+[Shot 3] At 00:06.000, the shot cuts to a medium shot. <Subject 2>'s face is dark and cold, eyes icy. He raises his right hand high and delivers a vicious slap across <Subject 1>'s face; <Subject 1>'s head snaps violently to one side. The camera whip-pans right-then-left tracking the arm swing, and a loud crisp crack sounds — “啪！”
+[Shot 4] At 00:08.500, the shot cuts to a fixed close-up. <Subject 2> withdraws his hand, the corner of his mouth slightly curled, expression indifferent and full of quiet menace as he stares down at <Subject 1>. He speaks slowly in a deep, cold, oppressive voice, <d>[Chinese] 蠢货！我让你低调平账，谁让你大半夜跑来纵火留把柄！</d> After the line, the lobby falls into a brief dead silence, broken only by the ambient echo of the marble hall.
+
+overall_soundscape:
+All-diegetic sound, no music. Rapid urgent footsteps on marble and violent fabric-friction rustle in [Shot 1]; chaotic lobby murmur behind the shouted line in [Shot 2]; one loud crisp slap crack in [Shot 3]; then a brief dead silence with the lobby's ambient echo in [Shot 4].
+
+non_diegetic_music:
+N/A

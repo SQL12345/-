@@ -1,0 +1,40 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]林清荷，清亮自然青年女声，音色沉稳有力，带有知性与坚韧感。[Reference Image 2]宋雅茹，尖锐刻薄青年女声，音色尖锐，语速快，带有咄咄逼人的气势。【场景锁定】@专业化验仪器旁。【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】近景，场景为@专业化验仪器旁内容：[Reference Image 1]林清荷 手持冷泡茶液瓶，注入便携光谱仪，屏幕瞬间亮起全绿色的极品特优级标志。运镜：镜头向主体缓慢推进。台词：无对白。音效：液体注入声，屏幕提示音“叮”。【镜头2，3-6秒】切镜到中景，场景仍为@专业化验仪器旁，内容：[Reference Image 1]林清荷 放下仪器，侧身面向[Reference Image 2]宋雅茹，淡然一笑，神情从容。运镜：固定镜头。台词：[Reference Image 1]林清荷（淡然）：“天然富硒，农残零检出。”音效：无【镜头3，6-8秒】切镜到近景，场景仍为@专业化验仪器旁，内容：[Reference Image 1]林清荷 眼神平静直视对方，嘴角微扬，带着自信的语气发问。运镜：固定镜头。台词：[Reference Image 1]林清荷（轻描淡写）：“宋理事，还要再复检一遍吗？”音效：无【镜头4，8-10秒】切镜到特写，场景仍为@专业化验仪器旁，内容：[Reference Image 2]宋雅茹 面部特写，眼神凌厉，咬牙切齿，露出愤恨且不甘的表情。运镜：镜头缓慢拉远。台词：[Reference Image 2]宋雅茹（咬牙，语速快）：“算你们运气好，不过没有渠道商接盘，好茶也只能烂在手里！”音效：无
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 林清荷, the young East Asian woman defined by <Picture 1>: black hair in a high ponytail, navy blazer over a white turtleneck, black mini skirt, sheer black tights, and black heeled ankle boots. She is the protagonist, performing in Shots 1–3 with a clear, steady, intelligent young female voice (S1).
+<Subject 2> is 宋雅茹, the young woman defined by <Picture 2>: silver-gray short bob, green eyes, red lipstick, gold necklace with red-jewel earrings, red satin mini dress with sheer black sleeves, black tights, and red stiletto heels. She is the antagonist "宋理事", appearing in Shots 2 and 4 with a sharp, fast-paced, aggressive young female voice (S2).
+<Subject 3> is the prop set: a transparent cold-brew tea bottle filled with amber-green tea liquid, and a portable spectrometer whose screen lights up fully green with a top-grade (特优级) indicator.
+<Subject 4> is the laboratory environment: professional analytical instruments surrounding the workspace, rendered with clean, slightly cool natural light and realistic metal and glass surfaces.
+<Picture 1> is the character identity and costume reference for <Subject 1>.
+<Picture 2> is the character identity and costume reference for <Subject 2>.
+<Picture 3> is an environment plate of a traditional Chinese countryside courtyard; it only informs the tea's implied rural origin and is not the shooting location.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene beside professional laboratory instruments. <Subject 1> 林清荷, driven by <Picture 1>, pours cold-brew tea from the bottle into the portable spectrometer (<Subject 3>), whose screen flashes fully green with the 特优级 top-grade indicator; she then calmly announces the results to <Subject 2> 宋雅茹, driven by <Picture 2>, and asks whether she wants a retest. <Subject 2> responds in a resentful close-up. <Picture 3> only supplies the tea's implied rural origin. No subtitles, no background music, no narration.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - her high ponytail, navy blazer, white turtleneck, black skirt, sheer tights, and heeled boots from <Picture 1> are retained throughout.
+<Subject 2> (appears in [Shot 2], [Shot 4]): fully_preserved - her silver-gray bob, red satin dress, sheer black sleeves, gold necklace, and red heels from <Picture 2> are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the transparent bottle with amber-green liquid and the spectrometer's full-green 特优级 screen are retained.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the professional lab instrument setting persists across all shots.
+<Picture 3> (atmosphere provenance): weak_reference - only the implied rural origin of the tea; not used as the shooting location.
+
+detailed_description:
+The target video is in a live-action cinematic style with realistic acting, natural slightly cool lighting, and true-to-life skin texture and hair detail, set beside professional laboratory instruments.
+[Shot 1] A close-up opens on <Subject 4>, the professional lab workspace, where <Subject 1> 林清荷, in her navy blazer and white turtleneck with her black high ponytail, holds the transparent cold-brew tea bottle from <Subject 3> and pours the amber-green liquid into the portable spectrometer. The camera slowly pushes in toward her hands and the instrument. The liquid flows with a soft pouring sound; the spectrometer's screen instantly lights up fully green with the 特优级 top-grade indicator, accompanied by a crisp "ding" alert tone.
+[Shot 2] At 00:03.000, the shot cuts to a static medium shot. <Subject 1> sets the instrument down on the bench and turns sideways to face <Subject 2> 宋雅茹, whose silver-gray bob and red satin dress with sheer black sleeves are visible at the frame's edge. <Subject 1> gives a calm, composed smile and says in her clear, steady, intelligent voice, <d>[Chinese] 天然富硒，农残零检出。</d> She closes her mouth, her expression relaxed and confident.
+[Shot 3] At 00:06.000, the shot cuts to a static close-up of <Subject 1>. Her eyes are calm and level, the corner of her mouth lifting slightly as she asks in a light, understated tone, <d>[Chinese] 宋理事，还要再复检一遍吗？</d> She holds her steady gaze after the line.
+[Shot 4] At 00:08.000, the shot cuts to an extreme close-up of <Subject 2> 宋雅茹's face. Her gaze is sharp and piercing, her jaw clenched, her expression resentful and unwilling. The camera slowly pulls back from her face as she snaps in her fast, harsh, aggressive voice through gritted teeth, <d>[Chinese] 算你们运气好，不过没有渠道商接盘，好茶也只能烂在手里！</d> Her glare remains fixed as the video ends.
+
+overall_soundscape:
+Quiet laboratory room tone with a faint low hum from the professional instruments continues throughout. The only diegetic sound effects are the liquid-pouring sound and the "ding" screen alert in [Shot 1]; all other shots carry only room tone beneath the dialogue.
+
+non_diegetic_music:
+N/A

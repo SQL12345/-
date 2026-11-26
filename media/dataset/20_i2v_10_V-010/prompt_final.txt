@@ -1,0 +1,34 @@
+subject_definitions:
+<Subject 1> is the blogger, a young Singaporean woman in casual home wear, seen from her own front-camera POV in <Picture 1>'s companion footage context — she operates the phone in Shot 1 and demonstrates the product in Shots 2–3, delivering lines 2 and 3 (S2).
+<Subject 2> is the friend, the blogger's roommate in casual home wear, who walks past side-rear, leans into frame, and delivers line 1 (S1) in Shot 1 only.
+<Subject 3> is the small dog, a small fluffy light-coat breed puppy, standing on the pad in Shot 1 and moving on the pad surface in Shot 3.
+<Subject 4> is the charcoal-black pee pad, whose dark grey-black quilted surface color and texture come from <Picture 1>, laid flat on the balcony floor and demonstrated in all three shots.
+<Subject 5> is the unopened 6-pack bundle packaging, matching the white/grey "6 Packs Bundle" pack look referenced from <Picture 1>, sitting on the floor beside the pad in Shot 1.
+<Subject 6> is the multi-size pad set, a visible S/M/L/XL stack of charcoal-grey pads referenced from <Picture 2>'s size range, laid out on the floor and swept by the camera in Shot 3; no chart graphics, labels, or price banners from <Picture 2> appear on screen.
+<Subject 7> is the Singapore HDB balcony environment, wood-and-cream tones with potted plants, a laundry rail, and floor tiles, in warm natural daylight.
+
+summary:
+[reference generation] The target video is a 12-second Singapore home-life UGC vlog in vertical with native iPhone 15 Pro Max handheld realism, set in <Subject 7>. <Subject 1> lays out <Subject 4>, the charcoal-black pee pad from <Picture 1>, with <Subject 3> standing on it and <Subject 5> beside them, while <Subject 2> steps in to ask a question. <Subject 1> then presses the pad and points out the charcoal layer, and the camera closes on the pad surface before sweeping across <Subject 6>, the S/M/L/XL stack referenced from <Picture 2>. <Picture 1> and <Picture 2> serve as product identity and size-range references only; no listing UI, cart icons, checkout screens, guide icons, or Chinese text appear anywhere.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the blogger's identity, casual home wear, and POV-to-demonstrator role are retained throughout.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the friend's walk-past, lean-in, and question are retained exactly as planned; she does not appear in Shots 2–3.
+<Subject 3> (appears in [Shot 1], [Shot 3]): fully_preserved - the small fluffy light-coat dog standing on the pad and later moving on the pad surface are retained.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the charcoal-grey/black quilted surface color and texture from <Picture 1> are retained across all shots.
+<Subject 5> (appears in [Shot 1]): fully_preserved - the unopened 6-pack bundle packaging look from <Picture 1> is retained.
+<Subject 6> (appears in [Shot 3]): fully_preserved - the S/M/L/XL charcoal-grey pad stack per <Picture 2>'s size range is retained, with no chart graphics or price banners carried over.
+<Subject 7> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the wood-and-cream HDB balcony with plants, laundry rail, and daylight is retained throughout.
+
+detailed_description:
+The target video is a casual Singapore home-life UGC vlog in vertical, shot with the native handheld realism of an iPhone 15 Pro Max — natural daylight, slight micro-shake, authentic everyday texture, no commercial gloss, and no BGM.
+[Shot 1] The video opens on a front-camera POV with natural handheld sway, inside <Subject 7>, the wood-and-cream HDB balcony bathed in warm daylight, potted plants and a laundry rail softly blurred behind. <Subject 1> (S2), the young Singaporean woman in casual home wear, spreads <Subject 4>, the charcoal-black pee pad with its dark grey-black quilted surface from <Picture 1>, flat onto the tiled balcony floor; the fabric rustles as it lands. <Subject 3>, the small fluffy light-coat puppy, stands on the pad, paws shifting with soft padding sounds, while <Subject 5>, the unopened 6-pack bundle matching the white/grey pack look from <Picture 1>, sits beside them. Hook text reading "POV: Tired of pee pad smell and leakage" appears in the upper safe area and stays visible until exactly 3s. From the side-rear, <Subject 2> (S1), the roommate in casual home wear, walks past, slows, and leans into frame with a curious tilt of the head, asking in a casual close-mic Singlish phone-recording voice, <d>[English] Wah, this pee pad looks different ah?</d> A synced subtitle in pure white bold English with a thin black outline shows at bottom-center and disappears with the line, never covering the person, the pet, or the product.
+[Cut at 3s]
+[Shot 2] At 00:03.000, the framing shifts to a medium handheld close shot of <Subject 1> (S2), now facing the camera with the balcony daylight warm on her face. She lightly presses <Subject 4>'s quilted surface with her palm, a soft fabric press audible, then points and taps at the charcoal layer position, demonstrating the water-lock structure without any exaggerated infomercial gesture. The camera makes small natural reframing moves only. She says in the same casual Singlish delivery, <d>[English] Charcoal one, absorb fast and control odour well!</d> with the synced white-bold bottom-center subtitle appearing and vanishing with her line.
+[Cut at 7s]
+[Shot 3] At 00:07.000, the shot cuts to a close-up of <Subject 4>'s surface, <Subject 3> moving and pawing gently on it with soft pad sounds. A quick but controlled handheld pan then sweeps across <Subject 6>, the S/M/L/XL stack of charcoal-grey pads from <Picture 2>'s size range laid out on the floor, ending on the stack. <Subject 1> (S2) closes off-screen-forward in her casual Singlish tone, <d>[English] Many sizes, no leak, perfect for house training!</d> with the final synced subtitle at bottom-center disappearing as the video ends on the stack. The product never clips through hands or paws at any point.
+
+overall_soundscape:
+Diegetic ambient bed only throughout: soft neighborhood daylight ambience, faint birds, muffled distant traffic, and interior room tone, plus natural foley — the pad unfolding and landing, palm pressing the pad fabric, the dog's paws on the pad, and casual fabric and step sounds from the friend.
+
+non_diegetic_music:
+N/A

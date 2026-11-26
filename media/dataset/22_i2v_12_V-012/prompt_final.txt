@@ -1,0 +1,34 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]李强，洪亮正气成年男声，语速稳健有力。[Reference Image 2]林晚，清亮坚定青年女声，音色温暖且富有感染力。【场景锁定】@爱心驿站院落古树下【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】中景，场景为@爱心驿站院落古树下内容：[Reference Image 1]李强 挺拔站立于古树下，穿着深蓝色警服，眼神坚定且温柔，老槐树叶片在风中摇曳。运镜：固定镜头。台词：[Reference Image 1]李强（郑重承诺）：“我不怕吃苦，”音效：老槐树在风中沙沙作响声。【镜头2，3-6秒】切镜到近景，场景仍为@爱心驿站院落古树下内容：[Reference Image 1]李强 面部特写，目光直视前方，表情诚恳。运镜：镜头向主体缓慢推进。台词：[Reference Image 1]李强（郑重承诺）：“只要能护着你和老街，”音效：风声轻微。【镜头3，6-8秒】切镜到中景，场景仍为@爱心驿站院落古树下内容：[Reference Image 1]李强 微微低头又抬头，身体保持挺拔，嘴唇抿紧后张开说话。运镜：固定镜头。台词：[Reference Image 1]李强（郑重承诺）：“我甘之如饴！”音效：无。【镜头4，8-10秒】切镜到近景，场景仍为@爱心驿站院落古树下内容：[Reference Image 2]林晚 站在[Reference Image 1]李强 对面，栗色低马尾，嘴角上扬嫣然一笑，眼神明亮。运镜：固定镜头。台词：[Reference Image 2]林晚（嫣然一笑）：“那好，向阳花驿站的巡逻队长，非你莫属了！”音效：无。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 李强, the man defined by <Picture 1>: a handsome East Asian man with short black hair, strong brows, and a resolute gaze, wearing a dark navy police-style uniform shirt with epaulettes and chest pockets, black belt, dark trousers, and black leather shoes. He delivers the three-line vow across Shots 1–3 in a resonant, upright adult male voice with a steady, forceful pace.
+<Subject 2> is 林晚, the woman defined by <Picture 2>: a young East Asian woman with chestnut-brown hair in a low ponytail, warm bright eyes, wearing a light blue collared shirt under a cream knit cardigan, black pleated mini skirt, and black flats. She appears opposite 李强 in Shot 4 and speaks in a clear, firm young female voice with a warm, infectious timbre.
+<Subject 3> is the 爱心驿站 courtyard environment beneath a large old locust tree, enriched by the aged, sunlit old-street texture of <Picture 3> — weathered peeling walls, worn ground, potted plants, and warm natural daylight filtering through the canopy, with locust leaves swaying in the wind.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene in the 爱心驿站 courtyard under an old locust tree. <Subject 1> 李强, in his navy police uniform from <Picture 1>, delivers a solemn three-part vow across Shots 1–3, while <Subject 2> 林晚, from <Picture 2>, appears in Shot 4 and warmly appoints him patrol captain of 向阳花驿站. <Picture 3> provides the aged old-street environmental atmosphere throughout. No <Video> or <Audio> reference assets are used.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the short black hair, resolute facial features, and complete dark navy police uniform with epaulettes, belt, and dark trousers from <Picture 1> are retained throughout his vow.
+<Subject 2> (appears in [Shot 4]): fully_preserved - the chestnut low ponytail, warm bright eyes, cream cardigan over light blue shirt, and black skirt from <Picture 2> are retained in her close-up.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the old locust tree, swaying leaves, and the weathered sunlit old-street texture from <Picture 3> persist across all shots.
+
+detailed_description:
+The target video is a live-action cinematic scene with realistic acting, natural daylight, and photographic skin and hair detail, set in the 爱心驿站 courtyard beneath a large old locust tree, surrounded by the aged, sunlit old-street texture of <Picture 3> — weathered peeling walls, worn ground, and warm lived-in light. No on-screen text or subtitles appear.
+[Shot 1] A fixed medium shot establishes <Subject 3>, the courtyard with the old locust tree, its leaves swaying gently in the wind and dappling the ground with shifting warm light. <Subject 1> 李强, in his dark navy police uniform from <Picture 1>, stands tall and upright beneath the tree, gaze firm yet gentle. Locust leaves rustle audibly in the wind. <Subject 1> (S1) speaks with a solemn, resonant upright male voice at a steady forceful pace, <d>[Chinese] 我不怕吃苦，</d>
+[Shot 2] At 00:03.000, the shot cuts to a close-up of <Subject 1> (S1)'s face as the camera slowly pushes in toward him. His eyes look directly forward, expression sincere, soft wind ambience continuing under the line. <Subject 1> (S1) continues in the same steady, forceful male voice, <d>[Chinese] 只要能护着你和老街，</d>
+[Shot 3] At 00:06.000, the shot cuts back to a fixed medium shot. <Subject 1> dips his head slightly, then lifts it, body remaining tall and upright; his lips press together briefly before opening. With quiet conviction he declares, <d>[Chinese] 我甘之如饴！</d> Subtle wind ambience persists.
+[Shot 4] At 00:08.000, the shot cuts to a fixed close-up of <Subject 2> 林晚, standing opposite 李强, her chestnut low ponytail and cream cardigan from <Picture 2> clearly visible in the warm natural light. The corners of her mouth lift into a radiant smile, her eyes bright. <Subject 2> (S2) says warmly in a clear, firm young female voice with an infectious timbre, <d>[Chinese] 那好，向阳花驿站的巡逻队长，非你莫属了！</d> She holds her bright smile through the final frame.
+
+overall_soundscape:
+Fully diegetic sound: wind rustling through the locust leaves is prominent in [Shot 1], lightens to a soft ambience in [Shot 2], and continues subtly through [Shot 3] and [Shot 4]. No narration and no added sound effects.
+
+non_diegetic_music:
+N/A

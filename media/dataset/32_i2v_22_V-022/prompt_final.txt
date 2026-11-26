@@ -1,0 +1,27 @@
+subject_definitions:
+<Subject 1> is 萧景琰, the prince whose identity comes from <Picture 1>: handsome young East Asian man with sharp brows and a cold composed expression, long black hair in a high ponytail secured with an ornate dark-gold metal crown and hairpin, long gold tassel earrings, black round-collar historical Chinese robe with subtle dark tonal embroidery, white inner collar with a deep wine-red under-collar layer, black leather belt with dark-gold buckle and hanging green jade pendant, black boots. His face, hairstyle, crown, robe, belt, and jade pendant must be preserved exactly.
+<Subject 2> is 侯府旧仆, the old household servant imprisoned inside the iron bars: a disheveled, gaunt older man rendered consistently with the dungeon's xuan-cyan candlelit palette, fearful then defiantly silent.
+<Subject 3> is the blood letter (血书-基础形象): a crumpled paper document written in blood, gripped in 萧景琰's whitening knuckles and later hurled to land at the servant's feet.
+<Subject 4> is the dungeon environment: iron bars, rough stone floor and walls, and flickering candlelight creating a cold, oppressive xuan-cyan atmosphere.
+
+summary:
+[reference generation] The target video is a 12-second dungeon interrogation in low-key black-gold cinematic style with cold xuan-cyan candlelight and fine film grain. <Subject 1> 萧景琰, defined by <Picture 1>, grips <Subject 3> the blood letter before the iron bars of <Subject 4>, declares his line, hurls the document through the bars to land at <Subject 2> the old servant's feet, then leans in to press his interrogation. No subtitles or on-screen text; continuous BGM and dungeon ambience with no silent segments.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2] throwing arm only, [Shot 3]): fully_preserved - face, high ponytail with dark-gold crown, gold tassel earrings, black embroidered robe, wine-red under-collar, belt, and jade pendant all retained per <Picture 1>.
+<Subject 2> (appears in [Shot 2]): fully_preserved - disheveled gaunt appearance, trembling reaction, gritted teeth, and shut eyes retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - crumpled blood-written paper, first gripped, then hurled and landed at the servant's feet.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - iron bars, stone dungeon, and flickering xuan-cyan candlelight retained throughout.
+<Picture 1> (identity reference for <Subject 1>): fully_preserved - governs 萧景琰's appearance in [Shot 1] and [Shot 3].
+
+detailed_description:
+The target video is a 12-second dungeon interrogation in low-key black-gold cinematic style: ink-black, xuan-cyan, dark gold, and a touch of deep wine red; flickering dungeon candlelight, soft restrained highlights, transparent shadow layers, and subtle film grain. No subtitles or on-screen text appear at any point.
+[Shot 1] A medium shot at eye level opens on <Subject 4>, the dungeon with iron bars and rough stone washed in cold xuan-cyan candlelight, candle flames trembling on the walls. <Subject 1> 萧景琰, exactly per <Picture 1> — black embroidered robe, wine-red under-collar, dark-gold hair crown, gold tassel earrings, green jade pendant — stands before the bars, both hands tightly gripping <Subject 3>, the crumpled blood letter, his knuckles whitening with pressure, his gaze icy. The camera pushes in slowly to a medium-close framing on his cold face and the blood-stained document in his hands. He speaks in a low, heavy voice, <d>[Chinese] 药王谷的账，本王一笔笔算。</d> The shot holds on his locked, forward stare as candlelight flickers across his features.
+[Shot 2] At 00:04.000, the shot cuts to a medium-close framing with a slight high angle, from inside the bars over <Subject 2>, the disheveled gaunt old servant crouched on the stone floor. <Subject 1>'s wrist snaps downward at the top of frame and <Subject 3>, the blood letter, strikes the ground precisely at the servant's feet with a sharp slap on stone. The servant's eyes shudder violently; his gaze sweeps down across the blood-soaked paper, then he grits his teeth and squeezes his eyes shut hard, refusing to speak. The camera pushes slowly onto his tightly closed eyes, candle shadows quivering over his hollow face.
+[Shot 3] At 00:08.000, the shot cuts to a close-up at eye level on <Subject 1> from the side. He bends toward the iron bars, leaning in with an oppressive forward posture, the dark-gold crown and tassel earring catching thin candlelight as he presses his interrogation in a lowered, pressing voice, <d>[Chinese] 药王谷要重夺京城命脉，你敢做我弃卒？</d> The shot lands on the cold, ruthless micro-movement at the corner of his mouth, held to the final frame.
+
+overall_soundscape:
+Continuous diegetic dungeon ambience throughout: flickering candle crackle, faint echoes of distant chains, cold stone room tone, the sharp slap of the blood letter hitting stone at ~00:04.500, and 萧景琰's low close-up voice. No silent segments.
+
+non_diegetic_music:
+A continuous, unified non-diegetic BGM runs the full 12 seconds without gaps: cold, tense low-register strings and sparse percussion with an Eastern classical color, sustaining a dark oppressive pulse that subtly tightens through the throw and the final interrogation.

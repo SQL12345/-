@@ -1,0 +1,34 @@
+subject_definitions:
+<Subject 1> is 曼姐, defined by <Picture 1>: a mature East Asian woman with black hair in a low ponytail with loose strands, sharp red-lidded eyes, dark red lipstick, red drop earrings, a black leather trench coat over a black lace high-collar top, black leather pants, and red stiletto heels. She speaks with a low, cold, mature female voice.
+<Subject 2> is 沈清澜, defined by <Picture 2>: a young adult East Asian woman with long straight black hair, a cool fair complexion, pearl earrings, a black blazer over a white satin blouse, a dark grey mini skirt, sheer black tights, and black loafers. She speaks with a clear, cool, incisive adult female voice.
+<Subject 3> is the underground dark server base of <Picture 3>: rows of server racks with green data screens and world-map monitors, red warning lights, desks with office chairs, a massive circular vault door at the far end, a glossy reflective floor, and cool overhead strip lights.
+<Subject 4> is the metallic dual-key disk, a brushed-metal prop handed from <Subject 1> to <Subject 2> across Shots 1 and 3.
+<Subject 5> is the red breaker switch mounted on a control box, yanked down by <Subject 1> in Shot 1.
+<Picture 1> is the character sheet for <Subject 1> 曼姐.
+<Picture 2> is the character sheet for <Subject 2> 沈清澜.
+<Picture 3> is the environment and keyframe anchor for all three shots.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic-realistic scene set entirely in <Subject 3>, the underground dark server base of <Picture 3>. <Subject 1> 曼姐 (per <Picture 1>) pulls the red breaker switch (<Subject 5>), thrusts the metallic dual-key disk (<Subject 4>) forward, and urgently states the fifty-fifty funding deal; <Subject 2> 沈清澜 (per <Picture 2>) calmly receives the disk and counters that dual notarization is required, naming tomorrow's engagement banquet as the opportunity. <Picture 3> anchors the environment of all three shots; no subtitles and no background music.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - her leather trench coat, lace high-collar top, red drop earrings, low ponytail with loose strands, red heels, and cold mature presence are retained per <Picture 1>.
+<Subject 2> (appears in [Shot 3]): fully_preserved - her black blazer, white satin blouse, pearl earrings, long straight black hair, and calm sharp demeanor are retained per <Picture 2>.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the server racks, green data screens, red warning lights, vault door, glossy floor, and overhead strip lights are retained throughout.
+<Subject 4> (appears in [Shot 1], [Shot 3]): fully_preserved - the brushed-metal dual-key disk is handed over and received with consistent material detail.
+<Subject 5> (appears in [Shot 1]): fully_preserved - the red breaker switch is pulled down with its heavy clunk.
+<Picture 1> (identity reference for <Subject 1>): fully_preserved.
+<Picture 2> (identity reference for <Subject 2>): fully_preserved.
+<Picture 3> (environment anchor for all shots): fully_preserved.
+
+detailed_description:
+The target video is a live-action, cinematic-realistic 10-second scene shot entirely inside <Subject 3>, the underground dark server base of <Picture 3>, lit only by motivated sources — green monitor glow, pulsing red warning lights, and cool overhead strip lights — with true-to-life skin texture and hair detail. Tone: tense, conspiratorial, high-stakes financial thriller. No subtitles, no background music.
+[Shot 1] A medium shot establishes <Subject 3>: server racks with green data screens line the space, red warning lights pulse, and the massive circular vault door sits in the far background over the glossy reflective floor. <Subject 1> 曼姐, in her black leather trench coat, black lace high-collar top, red drop earrings, and red heels per <Picture 1>, stands beside a server cabinet. She yanks down the red breaker switch (<Subject 5>) on the control box with a heavy "咔哒" clunk, followed by an electric "滋——" hum as the racks flicker. She turns immediately and thrusts the brushed-metal dual-key disk (<Subject 4>) forward with both hands, eyes urgent and burning, body leaning in. The camera rapidly pushes in following her motion, racking focus onto the key disk in her hands. No dialogue. Diegetic sound only: the breaker clunk, the electric hum, and faint server ambience.
+[Shot 2] At 00:03.000, the shot cuts to a fixed close-up of <Subject 1> 曼姐, still in the server base, staring toward camera direction (toward 沈清澜's position). Her brows are locked, expression serious and urgent, lips moving fast as she delivers in her low, cold, dangerous mature female voice, <d>[Chinese] 把你的离岸账户注资进来！一亿元资金只要转入，我们五五分成！</d> Diegetic sound: the low drone of server fans under her voice. No other sound.
+[Shot 3] At 00:07.000, the shot cuts to a medium-close shot. <Subject 2> 沈清澜, in her black blazer over a white satin blouse with pearl earrings and long straight black hair per <Picture 2>, steadily grips the dual-key disk (<Subject 4>) handed over by <Subject 1> (only 曼姐's hands and forearm enter frame for handoff continuity). Her chin lifts slightly, gaze locked directly on 曼姐, calm and self-possessed. The camera slowly pushes in on her resolute eyes as she delivers in her clear, cool, incisive adult female voice, <d>[Chinese] 曼姐别急，资金入账需要大额信托双重公证，明天订婚宴正是良机。</d> Sound: ambience only, the server hum continuing; no additional SFX, no music.
+
+overall_soundscape:
+Diegetic server-base ambience continues throughout: a low server-fan drone, faint electrical hum, and room tone. In [Shot 1] the heavy "咔哒" breaker clunk and electric "滋——" hum sound as the racks flicker; in [Shot 2] the fan drone sits under the dialogue; in [Shot 3] ambience only continues with no additional SFX.
+
+non_diegetic_music:
+N/A

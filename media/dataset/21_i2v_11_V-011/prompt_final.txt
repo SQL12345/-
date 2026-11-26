@@ -1,0 +1,33 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2中的警官只作为角色形象资料；本片按文字描述生成其画外音。图片不提供声纹，不要求复现图片对应真人的实际音色；没有外部音频依赖。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+【角色锁定】[Reference Image 1]苏浩，年轻清亮男声，语调略带颤抖。[Reference Image 2]假警官杜峰，严厉威胁成年男声，语调生硬。【场景锁定】@省城快捷酒店客房门前【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】近景，场景为@省城快捷酒店客房门前内容：[Reference Image 1]苏浩 坐在客房床边，面对笔记本电脑屏幕，双手在键盘上快速输入数字，神情紧张。运镜：固定镜头。台词：无对白。音效：急促的键盘敲击声，画面外传来猛烈撞击门板的声音“砰砰砰”。【镜头2，3-6秒】特写，场景仍为@省城快捷酒店客房门前内容：[Reference Image 1]苏浩 的手指悬停在回车确认键上方，指尖剧烈颤抖，不敢落下。此时画外音介入。运镜：固定镜头。台词：[Reference Image 2]假警官杜峰 （画外音，焦急狂吼，通过耳机传出）：“别理敲门声！那是我们内部涉嫌违纪的腐败警力，快按确定转账！”音效：耳机中嘈杂的人声，背景撞击声持续。【镜头3，6-10秒】近景，场景仍为@省城快捷酒店客房门前内容：[Reference Image 1]苏浩 抬头，眼神惊恐且坚定，对着空气（耳机）摇头，手指仍停留在键盘前。运镜：镜头缓慢推近面部。台词：[Reference Image 1]苏浩 （声音颤抖，带着恐惧）：“不行……我姐教过我，凡是要把钱转入安全账户的都是诈骗！”音效：撞击声逐渐减弱，只剩下急促的呼吸声。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is 苏浩, the young East Asian man defined by <Picture 1>: messy black hair, clean youthful face, wearing a navy track jacket with white stripes over a gray hoodie. In this video he sits on a budget hotel bed at the bedside with a silver laptop on his lap and a headset on, tense and fearful.
+<Subject 2> is 假警官杜峰, the fake officer defined by <Picture 2>: a stern middle-aged man with slicked black hair in a dark police uniform. He is a voice-only, off-screen presence delivered through 苏浩's headset, with a harsh, threatening adult male voice; he never appears on screen.
+
+summary:
+[reference generation] The target video is a 10-second live-action anti-fraud drama scene in a budget hotel room. <Subject 1> 苏浩, whose identity comes from <Picture 1>, sits at the bedside frantically typing into a laptop transfer screen while violent door pounding erupts off-screen. His finger trembles over the Enter key as <Subject 2> 假警官杜峰, whose voice timbre follows <Picture 2>'s stern officer, roars through the headset urging him to confirm the transfer. 苏浩 lifts his head, terrified but resolute, and refuses aloud with his sister's anti-fraud lesson as the pounding fades. No subtitles, no background music; all sound is diegetic.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - 苏浩's face, messy black hair, navy striped track jacket over gray hoodie, headset, and seated bedside posture with the silver laptop are retained throughout.
+<Subject 2> (appears in [Shot 2] as voice-only): fully_preserved - the fake officer exists only as an off-screen headset voice with the harsh, anxious roar matching his stern identity reference; no on-screen appearance is added.
+<Picture 3> (wedding banquet hall): excluded - not referenced in this scene.
+
+detailed_description:
+The target video is in a live-action cinematic realism style, like a tense anti-fraud drama: natural window light in a budget hotel room, realistic skin texture, hair detail, and fabric, with a claustrophobic, escalating tone. No subtitles and no background music; every sound is diegetic.
+[Shot 1] A fixed medium close-up establishes the hotel room bedside. <Subject 1> 苏浩, in his navy striped track jacket over a gray hoodie with messy black hair and a headset on, sits on the bed facing a silver laptop resting on his lap. The laptop screen shows a blurred transfer-confirmation interface as set dressing, with no legible text. His hands type numbers rapidly, shoulders tight, face tense and pale in the soft natural window light. The soundtrack carries urgent keyboard clicks and, from off-screen, violent door pounding "砰砰砰" against the room door.
+[Shot 2] At 00:03.000, the shot cuts to a fixed extreme close-up on his hand: his fingertip hovers over the Enter key, trembling violently, unable to press down. Through the headset comes the harsh, anxious roar of <Subject 2> 假警官杜峰, an off-screen voice with the stern middle-aged officer's threatening timbre: <d>[Chinese] 别理敲门声！那是我们内部涉嫌违纪的腐败警力，快按确定转账！</d> Beneath the roar, a noisy headset voice channel crackles and the door pounding continues relentlessly.
+[Shot 3] At 00:06.000, the shot cuts to a close-up of <Subject 1> 苏浩's face as the camera begins a slow, restrained push-in. He lifts his head, eyes terrified yet firm, and shakes his head toward the headset, his finger still frozen above the keyboard. His voice trembles with fear as he refuses: <d>[Chinese] 不行……我姐教过我，凡是要把钱转入安全账户的都是诈骗！</d> The pounding against the door gradually weakens and fades, leaving only his rapid, shallow breathing as the shot ends on his resolute face.
+
+overall_soundscape:
+All-diegetic sound throughout: urgent keyboard clicks in [Shot 1]; violent off-screen door pounding "砰砰砰" from [Shot 1] through [Shot 2], gradually weakening in [Shot 3]; a noisy headset voice channel under 杜峰's roar in [Shot 2]; and 苏浩's rapid breathing as the closing sound in [Shot 3].
+
+non_diegetic_music:
+N/A

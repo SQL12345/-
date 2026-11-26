@@ -1,0 +1,28 @@
+【角色锁定】[Reference Image 1]杜薇薇，尖细做作青年女声。[Reference Image 2]周店长，甜美礼貌青年女声。
+【场景锁定】@盛合集团大堂
+【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。
+
+【镜头1，0-3秒】全景，场景为@盛合集团大堂
+内容：[Reference Image 1]杜薇薇 身穿一身朴素灰色布衣，神情恍惚，步伐缓慢地走出大厦旋转门。
+运镜：镜头缓慢拉远，展现@盛合集团大堂 宏大的背景。
+台词：无对白。
+音效：高跟鞋清脆脚步声，大厦自动门开合声。
+【镜头2，3-6秒】切镜到中景，场景仍为@盛合集团大堂
+内容：[Reference Image 1]杜薇薇 在@盛合集团大堂 正中央，与带着法警清点物品的[Reference Image 2]周店长 意外撞见。[Reference Image 2]周店长 穿着黑色职业套装，嘴角挂着鄙夷的冷笑，手指向旁边的奢侈品箱子。
+运镜：固定镜头。
+台词：[Reference Image 2]周店长（鄙夷，语速快）：“杜小姐，你的限量版包包”
+音效：衣物摩擦声，法警清点物品的动作声。
+【镜头3，6-8秒】切镜到近景，场景仍为@盛合集团大堂
+内容：[Reference Image 2]周店长 微微前倾身体，眼神轻蔑地看着[Reference Image 1]杜薇薇。
+运镜：固定镜头。
+台词：[Reference Image 2]周店长（冷漠）：“已被法院全数查扣抵债了。”
+音效：无
+【镜头4，8-10秒】切镜到特写，场景仍为@盛合集团大堂
+内容：[Reference Image 1]杜薇薇 面色苍白，眼神空洞失神，嘴角抽动，身体微微颤抖。
+运镜：镜头缓慢推进[Reference Image 1]杜薇薇 面部。
+台词：[Reference Image 1]杜薇薇（失魂落魄，哽咽）：“拿走吧...我争了一辈子虚荣”
+音效：环境音轻微回音，背景嘈杂声渐弱。
+matic door sounds in Shot 1; clothing rustle and bailiff inventory-handling sounds in Shot 2; near silence in Shot 3; faint ambient echo with background bustle fading in Shot 4. No non-diegetic elements.
+
+non_diegetic_music:
+N/A

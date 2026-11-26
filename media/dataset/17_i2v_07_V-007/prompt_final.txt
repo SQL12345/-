@@ -1,0 +1,34 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+【角色锁定】[Reference Image 1]温澜，清冷沉稳成年女声。[Reference Image 2]大会司仪，浑厚磁性中年男声。【场景锁定】@澜海科技十周年盛典大厅。【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】全景，场景为@澜海科技十周年盛典大厅内容：@澜海科技十周年盛典大厅 舞台灯光绚烂夺目，台下数千名员工与嘉宾起立鼓掌，[Reference Image 1]温澜 从容优雅步入镜头视野。运镜：固定镜头。台词：无对白。音效：全场热烈掌声雷动。【镜头2，3-6秒】切镜到中景，场景仍为@澜海科技十周年盛典大厅内容：[Reference Image 2]大会司仪 站在控制台前，手持话筒，神情激昂地高声介绍。运镜：镜头向主体缓慢推进。台词：[Reference Image 2]大会司仪（高声，激情）：“全场掌声有请澜海科技创始人...”音效：掌声持续。【镜头3，6-8秒】切镜到近景，场景仍为@澜海科技十周年盛典大厅内容：[Reference Image 2]大会司仪 身体微微前倾，目光自信，声音充满感染力。运镜：固定镜头。台词：[Reference Image 2]大会司仪（高声，激情）：“...全国新时代杰出女性温澜女士！”音效：掌声达到高潮。【镜头4，8-10秒】切镜到特写，场景仍为@澜海科技十周年盛典大厅内容：[Reference Image 1]温澜 面部特写，眼神凌厉且深邃，嘴角带着从容优雅的浅笑，缓缓开口。运镜：固定镜头。台词：[Reference Image 1]温澜（清冷沉稳，平静）：“十年风雨泥泞...”音效：掌声渐渐转为期待的低语声。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is the adult woman 温澜 defined by <Picture 1>: long dark wavy hair, cool elegant features, wearing a white/cream tailored blazer over a black turtleneck, black mini skirt, sheer black stockings, and black stiletto heels; composed and graceful demeanor, with a clear, calm, steady mature female voice.
+<Subject 2> is the adult man 大会司仪 (the gala MC) defined by <Picture 2>: neat side-parted black hair, dark charcoal suit with black shirt, black headset microphone with boom; rich, magnetic middle-aged male voice.
+<Subject 3> is the Lanhai Tech 10th Anniversary Gala Hall environment: a grand celebration hall with a dazzling stage, sweeping stage lights, and a sea of thousands of standing applauding employees and guests (ambient crowd, no identifiable faces), including the control console where the MC stands.
+
+summary:
+[reference generation] The target video is a 10-second photorealistic cinematic gala sequence set in <Subject 3>, the Lanhai Tech 10th Anniversary Gala Hall. <Subject 1> 温澜, whose identity and outfit come from <Picture 1>, makes a composed entrance amid thunderous applause; <Subject 2> the MC, whose identity, suit, and headset microphone come from <Picture 2>, passionately introduces her from the control console across two shots; the sequence ends on an extreme close-up of 温澜 calmly beginning to speak as the applause subsides into hushed anticipation. <Picture 3> is not used; no video or audio reference assets are involved.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 4]): fully_preserved - her face, long dark wavy hair, white blazer, black turtleneck, black skirt, sheer stockings, and stiletto heels from <Picture 1> are retained; her cool, composed presence and calm steady voice are preserved.
+<Subject 2> (appears in [Shot 2], [Shot 3]): fully_preserved - his face, side-parted black hair, charcoal suit, black shirt, and headset microphone from <Picture 2> are retained; his rich magnetic voice and passionate delivery are preserved.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4]): fully_preserved - the grand gala hall, dazzling stage lights, control console, and the thousands-strong applauding crowd are retained throughout.
+
+detailed_description:
+The target video is a photorealistic, cinematic live-action sequence with natural light blended with dazzling stage lighting, true-to-life skin texture and hair detail, and a grand, celebratory tone building toward the founder's first words. No subtitles or on-screen text appear at any time.
+[Shot 1] A fixed wide shot establishes <Subject 3>, the grand gala hall: sweeping beams of dazzling stage light in gold and cool white wash over the stage rigging and the sea of thousands of standing employees and guests, all applauding thunderously, hands rising and falling in waves. <Subject 1> 温澜, in her white/cream tailored blazer over a black turtleneck with black skirt, sheer stockings, and stiletto heels per <Picture 1>, walks gracefully and composedly into frame from the stage wing, her posture upright and unhurried, her long dark wavy hair catching the light. No dialogue. Diegetic sound: roaring, thunderous applause filling the hall.
+[Shot 2] At 00:03.000, the shot cuts to a medium shot of <Subject 2> the MC at the control console, and the camera pushes in slowly toward him. He wears the charcoal suit with black shirt and headset microphone from <Picture 2>, holds a handheld microphone, his expression impassioned, brows lifted, gesturing slightly with the mic as he calls out loudly in his rich magnetic voice, <d>[Chinese] 全场掌声有请澜海科技创始人...</d> Diegetic sound: applause continues steadily under his voice.
+[Shot 3] At 00:06.000, the shot cuts to a fixed close shot of <Subject 2>. He leans slightly forward, gaze confident and locked on the audience, voice at full infectious energy as he delivers the climax of the introduction, <d>[Chinese] ...全国新时代杰出女性温澜女士！</d> Diegetic sound: the applause surges to its peak exactly on her name.
+[Shot 4] At 00:08.000, the shot cuts to a fixed extreme close-up of <Subject 1> 温澜's face. Her eyes are sharp, deep, and penetrating; a calm, elegant faint smile rests at the corner of her mouth; the stage glow softly rims her hair. She slowly begins to speak in a cool, steady, calm voice, <d>[Chinese] 十年风雨泥泞...</d> Diegetic sound: the applause gradually decays into a low murmur of hushed, expectant anticipation beneath her words.
+
+overall_soundscape:
+Fully diegetic sound throughout: continuous thunderous applause from the thousands-strong gala crowd, rising to a climax at the end of [Shot 3], then subsiding in [Shot 4] into hushed, expectant murmurs; a faint large-hall reverb and subtle PA-system presence under the voices.
+
+non_diegetic_music:
+N/A

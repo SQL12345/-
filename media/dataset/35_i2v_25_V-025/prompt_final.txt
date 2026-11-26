@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is 张姐, the middle-aged Chinese woman in <Picture 1>, with a brown shoulder-length bob slightly messy, natural photographic skin texture, wearing her beige trench coat look; her voice is a suppressed, trembling middle-aged female timbre that turns resolute.
+<Subject 2> is 林舒, the young Chinese woman in <Picture 2>, with long straight black hair, fair skin, wearing a navy tailored blazer; her voice is a clear, natural young female timbre, soft yet firm.
+<Subject 3> is the shabby low-rent apartment interior in <Picture 3> (城东廉租房内部): worn stained walls, metal-frame bed with plaid bedding, small window with blue curtain, cluttered shelves, wooden folding table, dim natural daylight, reflective worn floor.
+<Subject 4> is the thick white envelope containing the recorded evidence, a central prop across all shots.
+<Subject 5> is the old wooden low cabinet with cluttered contents, appearing in Shot 1.
+<Subject 6> is the black briefcase with zipper, appearing in Shot 3 as the final freeze-frame subject.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic scene set inside <Subject 3>, the low-rent apartment from <Picture 3>. <Subject 1> 张姐 (per <Picture 1>) retrieves a thick white evidence envelope from <Subject 5>, grips it with whitening knuckles, and hands it to <Subject 2> 林舒 (per <Picture 2>), who places it into <Subject 6> and zips it shut. Three shots follow the user-locked camera plan; all dialogue is female-voiced and verbatim; no subtitles or on-screen text.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - 张姐's brown messy bob, trench coat look, facial features, and voice timbre from <Picture 1> are retained throughout.
+<Subject 2> (appears in [Shot 3]): fully_preserved - 林舒's long straight black hair, navy blazer, and soft-firm young female voice from <Picture 2> are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the worn walls, bed, blue-curtained window, cluttered shelves, and dim natural daylight of <Picture 3> anchor every shot.
+<Subject 4> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the thick white envelope is the continuous central prop from retrieval to storage.
+<Subject 5> (appears in [Shot 1]): fully_preserved - the old wooden low cabinet with cluttered contents is retained.
+<Subject 6> (appears in [Shot 3]): fully_preserved - the black briefcase with zipper is retained and ends the video frozen closed.
+
+detailed_description:
+The target video is a 10-second live-action cinematic scene with realistic acting, natural lighting, and photographic skin texture and hair detail; the tone is tense, intimate, and quietly triumphant, with no subtitles or on-screen text.
+[Shot 1] A fixed medium shot inside <Subject 3>, the shabby low-rent apartment: worn stained walls, the metal-frame bed with plaid bedding, and the small window with blue curtain casting dim natural daylight across the reflective worn floor. <Subject 1> 张姐, her brown shoulder-length bob slightly messy, stands before <Subject 5>, the old wooden low cabinet. Her expression shifts from melancholy to determination. She slides the cabinet door open with a “吱呀” friction creak, her fingers rummaging quickly through the clutter amid rustling clothing sounds, and pulls out <Subject 4>, the thick white envelope. The camera holds its fixed framing with a slight push toward her hands and the envelope. <Subject 1> (S1) speaks in a suppressed, trembling, quickening middle-aged female voice, <d>[Chinese] 这是我之前被他骗时，偷录的所有...</d>
+[Shot 2] At 00:04.000, the shot cuts to a close-up in the same setting. The camera pushes in slowly on 张姐's face and the envelope in her hands. Her fingertips whiten from gripping <Subject 4> hard, a faint paper-straining sound audible, her eyes sharp and fixed forward. <Subject 1> (S1) finishes her line firmly and louder, her trembling voice hardening into resolve, <d>[Chinese] ...开房和密谈录音！</d>
+[Shot 3] At 00:07.000, the shot cuts to a medium shot in the same setting. <Subject 2> 林舒, long straight black hair falling smoothly, wearing her navy tailored blazer, stands at 张姐's side. The camera tracks her hand movements as she carefully, gently takes <Subject 4> from 张姐's hands, places it into <Subject 6>, the black briefcase beside her with a muffled thud, and pulls the zipper shut with a smooth “滋——” sound. The shot ends frozen on the instant the briefcase closes. <Subject 2> (S2) speaks in a soft yet firm, steady young female voice, <d>[Chinese] 有了这些物证，他的诈骗罪行就彻底坐实了。</d>
+
+overall_soundscape:
+All-diegetic quiet apartment room tone with faint street ambience through the window; cabinet door sliding “吱呀” friction creak and rustling clothes in Shot 1, faint paper straining in Shot 2, muffled thud of the envelope dropping into the briefcase and smooth zipper “滋——” in Shot 3.
+
+non_diegetic_music:
+A subtle, low, tense ambient bed at most, never covering the dialogue or sound effects; otherwise N/A.

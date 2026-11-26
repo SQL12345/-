@@ -1,0 +1,24 @@
+【角色锁定】[Reference Image 1]苏强，粗哑暴躁中年男声。[Reference Image 2]苏晚晴，清亮坚定青年女声。
+【场景锁定】[Reference Image 3]监狱重刑犯探视室。
+【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。
+
+【镜头1，0-3秒】中景，场景为[Reference Image 3]监狱重刑犯探视室
+内容：[Reference Image 2]苏晚晴 缓缓站起身，身体挺拔，居高临下注视着对面的[Reference Image 1]苏强。[Reference Image 1]苏强 坐在探视椅上，姿态颓废，眼神空洞。
+运镜：镜头缓慢向[Reference Image 2]苏晚晴 推进，随后轻微摇向[Reference Image 1]苏强。
+台词：无对白。
+音效：高跟鞋踩踏地面的轻微“嗒、嗒”声。
+【镜头2，3-6秒】近景，场景仍为[Reference Image 3]监狱重刑犯探视室
+内容：[Reference Image 2]苏晚晴 面部特写，神情冷漠决绝，目光如刀。
+运镜：固定镜头，聚焦[Reference Image 2]苏晚晴 的眼神。
+台词：[Reference Image 2]苏晚晴（冷冽）：“母亲用生命替你还完最后一次债，”
+音效：无
+【镜头3，6-8秒】中近景，场景仍为[Reference Image 3]监狱重刑犯探视室
+内容：镜头切至[Reference Image 1]苏强 侧脸，随即转回[Reference Image 2]苏晚晴 的正面，她继续陈述，语气坚定。
+运镜：固定镜头。
+台词：[Reference Image 2]苏晚晴（决绝）：“苏强，你我亲缘在法槌下已尽。”
+音效：无
+【镜头4，8-10秒】特写，场景仍为[Reference Image 3]监狱重刑犯探视室
+内容：[Reference Image 1]苏强 猛地抬头，双眼布满血丝，身体前倾，双手死死抓着探视桌沿，表情崩溃。
+运镜：镜头快速推至[Reference Image 1]苏强 面部特写。
+台词：[Reference Image 1]苏强（嘶吼，绝望）：“别走！姐！你别抛弃我！你走了我就真的什么都没有了！”
+音效：电话听筒被剧烈抓握的摩擦声，背景环境音突然变得嘈杂压抑。

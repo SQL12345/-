@@ -1,0 +1,42 @@
+中文复现PE｜2026-11-16素材清理修订；非历史产线PE，视频未重新生成。
+【有效输入与角色对应】
+参考图1对应原始输入图1。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+参考图2对应原始输入图2。保留其人物身份、发型、服装等与本片有关的特征；场景按下文明确描述生成，不将人物四视图当作场景图。
+【声音来源】
+本例无外部参考音频文件；人物声音、环境声和音效按文字描述生成。
+【中文复现PE】
+（旁白统一用女声）【角色锁定】[Reference Image 1]张伟，尖细急促中年男声，略带沙哑。[Reference Image 2]经侦队长，严肃坚定成年男声，铿锵有力。【场景锁定】@机场航站楼安检口【视频风格】真人电影感，写实表演，自然光影，实拍级皮肤质感与毛发细节。【镜头1，0-3秒】中景，场景为@机场航站楼安检口内容：[Reference Image 1]张伟 戴着墨镜和鸭舌帽，低头在@机场航站楼安检口 区域狂奔，两名身着便衣的经侦警官（[Reference Image 2]经侦队长 及另一名警官）迅速上前，将[Reference Image 1]张伟 死死按在身后的墙壁上。运镜：手持跟拍，画面随奔跑轻微晃动，最后因撞击墙壁而骤停。台词：无对白。音效：急促的脚步声，身体撞击墙壁的沉闷声。【镜头2，3-6秒】切镜到近景，场景仍为@机场航站楼安检口内容：[Reference Image 1]张伟 背部紧贴墙壁，面部极度扭曲，双手剧烈挣扎，试图摆脱束缚，眼神中充满惊恐与愤怒。运镜：固定镜头，聚焦于[Reference Image 1]张伟 扭曲的面部表情。台词：[Reference Image 1]张伟（剧烈挣扎，声嘶力竭）：“放开我！我是智远科技副总！”音效：衣物撕裂声，粗重的喘息声。【镜头3，6-8秒】切镜到中景，场景仍为@机场航站楼安检口内容：[Reference Image 1]张伟 动作稍缓，继续扭动身体，[Reference Image 2]经侦队长 站在其面前，神情冷峻，右手从怀中掏出警官证并高高亮出，遮挡在镜头前。运镜：镜头缓慢推进至警官证特写，随后拉回至中景展示[Reference Image 2]经侦队长 的严肃面容。台词：[Reference Image 1]张伟（急促，喘息）：“你们凭什么随便抓合法公民！”音效：证件展开的细微声响。【镜头4，8-10秒】切镜到近景，场景仍为@机场航站楼安检口内容：[Reference Image 2]经侦队长 目光直视前方（对应被按住的[Reference Image 1]张伟），面部肌肉紧绷，下巴微抬，姿态权威且不可动摇。运镜：固定镜头，强调[Reference Image 2]经侦队长 的压迫感。台词：[Reference Image 2]经侦队长（严肃，铿锵有力）：“张伟，你涉嫌职务侵占和商业窃密，请跟我们回去协助调查！”音效：背景嘈杂的机场广播声略微减弱，突显台词的清晰。
+【原始产线PE｜用于追溯当前视频】
+subject_definitions:
+<Subject 1> is Zhang Wei, the fugitive deputy general manager of 智远科技， defined by <Picture 1>: a heavy-set middle-aged East Asian man with wavy black hair, wearing a dark gray pinstriped suit jacket over a black shirt, brown trousers, and brown leather shoes; in the target video he additionally wears sunglasses and a peaked cap from the first frame. His voice is a sharp, rapid, slightly husky middle-aged male voice (S1).
+<Subject 2> is the 经侦队长 (Economic Crime Investigation Captain), defined by <Picture 2>: a fit East Asian man with a short buzz cut, sharp angular features, and an intense severe gaze, dressed in plainclothes at the airport with any uniform details concealed. His voice is a serious, firm, resonant adult male voice (S2).
+<Subject 3> is the second plainclothes officer, a generic unnamed plainclothes male who assists in pinning Zhang Wei; no dialogue.
+<Subject 4> is the 警官证 (police ID), the official credential the captain draws and raises to the lens; it is the only on-screen text element permitted, shown in crisp detail during the Shot 3 push-in.
+<Picture 1> is the character turnaround sheet for Zhang Wei, providing identity, face, build, and wardrobe reference across all four shots.
+<Picture 2> is the character turnaround sheet for the 经侦队长， providing face, buzz cut, physique, and authoritative demeanor reference in Shots 1, 3, and 4.
+<Picture 3> is a photorealistic empty modern corporate boardroom representing 智远科技； it remains off-screen as implied backstory texture and does not appear in frame.
+
+summary:
+[reference generation] The target video is a 10-second live-action cinematic arrest sequence set entirely at the airport terminal security checkpoint. <Subject 1> Zhang Wei, in his <Picture 1> pinstripe suit plus sunglasses and peaked cap, sprints through the checkpoint and is slammed against a wall by <Subject 2> the 经侦队长 and <Subject 3> the second officer. Pinned, Zhang Wei screams his identity and protests, the captain draws <Subject 4> the police ID to the lens, and finally delivers the formal arrest declaration. <Picture 1> and <Picture 2> lock the two leads' appearance; <Picture 3> stays off-screen as backstory texture. No subtitles, no narration, no music — diegetic sound only.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - Zhang Wei's face, heavy-set build, wavy black hair, gray pinstripe suit, black shirt, and the added sunglasses and peaked cap are retained throughout.
+<Subject 2> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - the captain's buzz cut, angular severe features, fit physique, and plainclothes appearance are retained.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the second plainclothes officer assists the takedown as defined.
+<Subject 4> (appears in [Shot 3]): fully_preserved - the police ID is drawn, raised to block the lens, and shown in crisp official detail during the push-in.
+<Picture 1> (all shots, character reference): fully_preserved - drives Zhang Wei's identity and wardrobe.
+<Picture 2> (Shots 1, 3, 4, character reference): fully_preserved - locks the captain's face and demeanor.
+<Picture 3> (off-screen): weak_reference - implied backstory texture for 智远科技 only; never appears in frame.
+
+detailed_description:
+The target video is a tense, live-action cinematic arrest sequence in full realism: natural airport terminal lighting, film-grade skin texture and hair detail, realistic physical acting, entirely diegetic sound.
+[Shot 1] A medium shot at the airport terminal security checkpoint, with daylight streaming through the terminal glass and security lanes, trays, and stanchions visible in the background. <Subject 1> Zhang Wei — per <Picture 1>, heavy-set with wavy black hair, in his gray pinstripe suit, black shirt, and brown trousers, wearing sunglasses and a peaked cap — sprints head-down through the checkpoint area. The camera is handheld, tracking with his run and shaking with each stride. <Subject 2> the 经侦队长 (per <Picture 2>, buzz cut, severe angular face, dressed plainclothes) and <Subject 3> the second plainclothes officer converge from either side and slam Zhang Wei hard against the wall behind him; the frame jolts to a hard stop on the impact. Sound: rapid urgent footsteps, the dull heavy thud of body against wall, and low airport PA murmur.
+[Shot 2] At 00:03.000, cut to a locked-off fixed close-up on <Subject 1> Zhang Wei's face, his back flat against the wall, face severely contorted, hands clawing and struggling violently to break free, eyes full of terror and rage. <Subject 1> (S1) screams in his sharp, rapid, slightly husky middle-aged male voice, <d>[Chinese] 放开我！我是智远科技副总！</d> Sound: cloth tearing, heavy rasping breaths, terminal ambience continuing underneath.
+[Shot 3] At 00:06.000, cut to a medium shot at the same checkpoint. <Subject 1> Zhang Wei's movements slow slightly as he keeps writhing against the wall. <Subject 2> the 经侦队长 stands before him, expression cold and stern, and draws <Subject 4> the 警官证 from inside his jacket with his right hand, raising it high so it blocks the lens. The camera pushes in slowly to a crisp close-up of the police ID — the only on-screen text element permitted, its official detail sharp in the natural light — then pulls back to the medium shot framing the captain's severe face. <Subject 1> (S1) pants out in a rapid, breathless voice, <d>[Chinese] 你们凭什么随便抓合法公民！</d> Sound: the faint snap of the ID flipping open.
+[Shot 4] At 00:08.000, cut to a locked-off fixed close-up on <Subject 2> the 经侦队长， staring straight ahead toward the pinned Zhang Wei, facial muscles taut, chin slightly raised, posture authoritative and immovable, his plainclothes collar and buzz cut sharp against the softly blurred checkpoint background. <Subject 2> (S2) declares in a serious, firm, resounding adult male voice, <d>[Chinese] 张伟，你涉嫌职务侵占和商业窃密，请跟我们回去协助调查！</d> The airport PA chatter and terminal ambience duck slightly under his line so the dialogue reads clearly, holding to the final frame.
+
+overall_soundscape:
+Diegetic airport terminal ambience throughout: PA announcements, crowd murmur, and checkpoint clatter; rapid footsteps and a dull wall-impact thud in Shot 1; cloth tearing and heavy panting in Shot 2; the faint snap of the police ID in Shot 3; ambience ducking slightly under the captain's declaration in Shot 4.
+
+non_diegetic_music:
+N/A

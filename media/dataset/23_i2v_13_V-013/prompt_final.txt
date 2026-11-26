@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1> is the village woman (CH0081) defined by <Picture 2>, with dark hair in a bun with a silver hairpin, an indigo cross-collar tunic, beige linen vest, wrapped apron, grey leg wraps, and a tear-reddened grief face; her sobbing pose and state come from <Picture 1>.
+<Subject 2> is the petrified man (CH0082) defined by <Picture 3>, a male figure fully turned to cracked grey-blue stone with sculpted long stone hair and weathered mineral texture; his raised-hand state comes from <Picture 1>, and his right stone hand is the key moving prop.
+<Subject 3> is the 镇西 (west-of-town) ancient Chinese street environment from <Picture 4>, with cobblestone road, wooden market stalls, grey tiled-roof buildings, trees, soft drifting mist, and warm golden-hour light, matching the background of <Picture 1>.
+<Picture 1> is the first-frame anchor and master composition, color, emotion, and lighting reference for the entire shot, including the softly blurred grieving villagers in the background.
+<Picture 2> is the identity and grief-expression reference for <Subject 1>.
+<Picture 3> is the identity and material reference for <Subject 2>, critical for the stone-hand animation.
+<Picture 4> is the environment reference for the street set.
+
+summary:
+[reference generation + keyframe completion] The target video is a 10-second single fixed medium shot in the 镇西 street of <Subject 3>, opening from <Picture 1> as the first-frame anchor: <Subject 1> sobs silently before <Subject 2>, whose stone hand is already raised. The stone hand strains slowly upward (3–6s), then gently touches her shoulder once as warm golden light floods in (6–10s). <Picture 2> and <Picture 3> govern character identity, grief expression, and stone material; <Picture 4> governs the environment. No dialogue, no speech, no on-screen text; all lips stay sealed throughout.
+
+retention_analysis:
+<Subject 1> (appears throughout, 0–10s): fully_preserved - her CH0081 costume, bun with silver hairpin, grief expression, and tear-streaked face from <Picture 2> and <Picture 1> are retained; lips remain closed per the hard rule.
+<Subject 2> (appears throughout, 0–10s): fully_preserved - his cracked grey-blue stone body, sculpted stone hair, and mineral texture from <Picture 3> are retained; only his right stone hand moves, slowly and naturally, never deforming or breaking.
+<Subject 3> (appears throughout, 0–10s): fully_preserved - the cobblestone street, tiled roofs, stalls, trees, and mist of <Picture 4> are retained, with a gradual in-world warm-light change in the tail beat, not a grade jump.
+<Picture 1> (first frame): fully_preserved - the opening frame matches its composition, color, lighting, background villagers, and semantics (woman sobbing, stone hand already raised).
+<Picture 2> (expression reference): fully_preserved - sorrow and tearful expression panels guide <Subject 1>'s grief throughout.
+<Picture 3> (material reference): fully_preserved - macro stone-hand panels guide the hand's intact, weighted motion.
+<Picture 4> (environment reference): fully_preserved - the street set matches its layout and golden-hour atmosphere.
+
+detailed_description:
+The target video is a cinematic premium live-action shot with vivid high-saturation color, fine filmic detail, and a look, captured as one continuous fixed medium shot with no camera movement, no cuts, and no transitions for the full 10 seconds.
+[Shot 1] The frame opens on <Picture 1> as the first-frame anchor: a fixed medium shot in <Subject 3>, the west-end street of an ancient Chinese town at golden hour, with cobblestone road, tiled roofs, trees, and soft drifting mist. <Subject 1>, the village woman in her indigo cross-collar tunic, beige linen vest, and wrapped apron, hair in a bun with a silver hairpin, stands facing <Subject 2>, the petrified man of cracked grey-blue stone with sculpted long stone hair, whose right stone hand is already raised near her shoulder, fingers slightly curled — the frozen instant just before he touches her again. She sobs, but her lips stay pressed shut the entire time: her weeping is carried by shaking shoulders, streaming tears, reddened eyes, and a furrowed brow, while quiet diegetic sobbing sounds are heard. Behind them, grieving villagers in plain Han-era clothing stand softly blurred, their headcount constant. The two principals' spacing stays stable.
+From 3 to 6 seconds, still in the same fixed frame, the heavy stone hand strains upward another slow inch — the movement sluggish, weighted, and effortful yet natural, the cracked stone texture of <Picture 3> fully intact with no deformation or breakage. <Subject 1>'s tear-filled eyes follow the hand in aching anticipation; her lips remain sealed, her grief expressed only through trembling and glistening eyes.
+From 6 to 10 seconds, warm golden light gradually floods the frame as an in-world change, bathing both figures. The cracked stone hand finally descends and gently touches her shoulder once, tender and careful. Her sobbing falters and stills; her eyes soften through the tears, her brow easing into quiet, consoled sorrow. The sobbing sound lingers and fades while soft warm strings swell underneath. All lips remain naturally closed through the final frame, with no open mouth, no lip movement, and no on-screen text; faces, costumes, spacing, and lighting stay perfectly consistent throughout.
+
+overall_soundscape:
+Quiet diegetic sobbing/啜泣 sounds from 0–3s, carried by the woman's grief though her lips stay closed, with a lingering sob tail fading through the 6–10s beat; faint ambient street stillness (soft wind, distant market hush) underlies the whole shot.
+
+non_diegetic_music:
+Soft, warm string swell entering around 6s for the tail — tender and consoling, low in the mix beneath the fading sob; no music in the first two beats.
